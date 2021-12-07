@@ -1,0 +1,3145 @@
+State Code,State Name,State Abbreviation,County Code,County Name,EPA Region,fips
+1,Alabama,AL,1,Autauga,4,1001
+1,Alabama,AL,3,Baldwin,4,1003
+1,Alabama,AL,5,Barbour,4,1005
+1,Alabama,AL,7,Bibb,4,1007
+1,Alabama,AL,9,Blount,4,1009
+1,Alabama,AL,11,Bullock,4,1011
+1,Alabama,AL,13,Butler,4,1013
+1,Alabama,AL,15,Calhoun,4,1015
+1,Alabama,AL,17,Chambers,4,1017
+1,Alabama,AL,19,Cherokee,4,1019
+1,Alabama,AL,21,Chilton,4,1021
+1,Alabama,AL,23,Choctaw,4,1023
+1,Alabama,AL,25,Clarke,4,1025
+1,Alabama,AL,27,Clay,4,1027
+1,Alabama,AL,29,Cleburne,4,1029
+1,Alabama,AL,31,Coffee,4,1031
+1,Alabama,AL,33,Colbert,4,1033
+1,Alabama,AL,35,Conecuh,4,1035
+1,Alabama,AL,37,Coosa,4,1037
+1,Alabama,AL,39,Covington,4,1039
+1,Alabama,AL,41,Crenshaw,4,1041
+1,Alabama,AL,43,Cullman,4,1043
+1,Alabama,AL,45,Dale,4,1045
+1,Alabama,AL,47,Dallas,4,1047
+1,Alabama,AL,49,DeKalb,4,1049
+1,Alabama,AL,51,Elmore,4,1051
+1,Alabama,AL,53,Escambia,4,1053
+1,Alabama,AL,55,Etowah,4,1055
+1,Alabama,AL,57,Fayette,4,1057
+1,Alabama,AL,59,Franklin,4,1059
+1,Alabama,AL,61,Geneva,4,1061
+1,Alabama,AL,63,Greene,4,1063
+1,Alabama,AL,65,Hale,4,1065
+1,Alabama,AL,67,Henry,4,1067
+1,Alabama,AL,69,Houston,4,1069
+1,Alabama,AL,71,Jackson,4,1071
+1,Alabama,AL,73,Jefferson,4,1073
+1,Alabama,AL,75,Lamar,4,1075
+1,Alabama,AL,77,Lauderdale,4,1077
+1,Alabama,AL,79,Lawrence,4,1079
+1,Alabama,AL,81,Lee,4,1081
+1,Alabama,AL,83,Limestone,4,1083
+1,Alabama,AL,85,Lowndes,4,1085
+1,Alabama,AL,87,Macon,4,1087
+1,Alabama,AL,89,Madison,4,1089
+1,Alabama,AL,91,Marengo,4,1091
+1,Alabama,AL,93,Marion,4,1093
+1,Alabama,AL,95,Marshall,4,1095
+1,Alabama,AL,97,Mobile,4,1097
+1,Alabama,AL,99,Monroe,4,1099
+1,Alabama,AL,101,Montgomery,4,1101
+1,Alabama,AL,103,Morgan,4,1103
+1,Alabama,AL,105,Perry,4,1105
+1,Alabama,AL,107,Pickens,4,1107
+1,Alabama,AL,109,Pike,4,1109
+1,Alabama,AL,111,Randolph,4,1111
+1,Alabama,AL,113,Russell,4,1113
+1,Alabama,AL,115,St. Clair,4,1115
+1,Alabama,AL,117,Shelby,4,1117
+1,Alabama,AL,119,Sumter,4,1119
+1,Alabama,AL,121,Talladega,4,1121
+1,Alabama,AL,123,Tallapoosa,4,1123
+1,Alabama,AL,125,Tuscaloosa,4,1125
+1,Alabama,AL,127,Walker,4,1127
+1,Alabama,AL,129,Washington,4,1129
+1,Alabama,AL,131,Wilcox,4,1131
+1,Alabama,AL,133,Winston,4,1133
+2,Alaska,AK,13,Aleutians East ,10,2013
+2,Alaska,AK,16,Aleutians West ,10,2016
+2,Alaska,AK,20,Anchorage ,10,2020
+2,Alaska,AK,50,Bethel ,10,2050
+2,Alaska,AK,60,Bristol Bay ,10,2060
+2,Alaska,AK,68,Denali ,10,2068
+2,Alaska,AK,70,Dillingham ,10,2070
+2,Alaska,AK,90,Fairbanks North Star ,10,2090
+2,Alaska,AK,100,Haines ,10,2100
+2,Alaska,AK,105,Hoonah-Angoon ,10,2105
+2,Alaska,AK,110,Juneau ,10,2110
+2,Alaska,AK,122,Kenai Peninsula ,10,2122
+2,Alaska,AK,130,Ketchikan Gateway ,10,2130
+2,Alaska,AK,150,Kodiak Island ,10,2150
+2,Alaska,AK,164,Lake and Peninsula ,10,2164
+2,Alaska,AK,170,Matanuska-Susitna ,10,2170
+2,Alaska,AK,180,Nome ,10,2180
+2,Alaska,AK,185,North Slope ,10,2185
+2,Alaska,AK,188,Northwest Arctic ,10,2188
+2,Alaska,AK,195,Petersburg ,10,2195
+2,Alaska,AK,198,Prince of Wales-Hyder ,10,2198
+2,Alaska,AK,220,Sitka ,10,2220
+2,Alaska,AK,230,Skagway ,10,2230
+2,Alaska,AK,240,Southeast Fairbanks ,10,2240
+2,Alaska,AK,261,Valdez-Cordova ,10,2261
+2,Alaska,AK,270,Wade Hampton ,10,2270
+2,Alaska,AK,275,Wrangell ,10,2275
+2,Alaska,AK,282,Yakutat ,10,2282
+2,Alaska,AK,290,Yukon-Koyukuk ,10,2290
+4,Arizona,AZ,1,Apache,9,4001
+4,Arizona,AZ,3,Cochise,9,4003
+4,Arizona,AZ,5,Coconino,9,4005
+4,Arizona,AZ,7,Gila,9,4007
+4,Arizona,AZ,9,Graham,9,4009
+4,Arizona,AZ,11,Greenlee,9,4011
+4,Arizona,AZ,12,La Paz,9,4012
+4,Arizona,AZ,13,Maricopa,9,4013
+4,Arizona,AZ,15,Mohave,9,4015
+4,Arizona,AZ,17,Navajo,9,4017
+4,Arizona,AZ,19,Pima,9,4019
+4,Arizona,AZ,21,Pinal,9,4021
+4,Arizona,AZ,23,Santa Cruz,9,4023
+4,Arizona,AZ,25,Yavapai,9,4025
+4,Arizona,AZ,27,Yuma,9,4027
+5,Arkansas,AR,1,Arkansas,6,5001
+5,Arkansas,AR,3,Ashley,6,5003
+5,Arkansas,AR,5,Baxter,6,5005
+5,Arkansas,AR,7,Benton,6,5007
+5,Arkansas,AR,9,Boone,6,5009
+5,Arkansas,AR,11,Bradley,6,5011
+5,Arkansas,AR,13,Calhoun,6,5013
+5,Arkansas,AR,15,Carroll,6,5015
+5,Arkansas,AR,17,Chicot,6,5017
+5,Arkansas,AR,19,Clark,6,5019
+5,Arkansas,AR,21,Clay,6,5021
+5,Arkansas,AR,23,Cleburne,6,5023
+5,Arkansas,AR,25,Cleveland,6,5025
+5,Arkansas,AR,27,Columbia,6,5027
+5,Arkansas,AR,29,Conway,6,5029
+5,Arkansas,AR,31,Craighead,6,5031
+5,Arkansas,AR,33,Crawford,6,5033
+5,Arkansas,AR,35,Crittenden,6,5035
+5,Arkansas,AR,37,Cross,6,5037
+5,Arkansas,AR,39,Dallas,6,5039
+5,Arkansas,AR,41,Desha,6,5041
+5,Arkansas,AR,43,Drew,6,5043
+5,Arkansas,AR,45,Faulkner,6,5045
+5,Arkansas,AR,47,Franklin,6,5047
+5,Arkansas,AR,49,Fulton,6,5049
+5,Arkansas,AR,51,Garland,6,5051
+5,Arkansas,AR,53,Grant,6,5053
+5,Arkansas,AR,55,Greene,6,5055
+5,Arkansas,AR,57,Hempstead,6,5057
+5,Arkansas,AR,59,Hot Spring,6,5059
+5,Arkansas,AR,61,Howard,6,5061
+5,Arkansas,AR,63,Independence,6,5063
+5,Arkansas,AR,65,Izard,6,5065
+5,Arkansas,AR,67,Jackson,6,5067
+5,Arkansas,AR,69,Jefferson,6,5069
+5,Arkansas,AR,71,Johnson,6,5071
+5,Arkansas,AR,73,Lafayette,6,5073
+5,Arkansas,AR,75,Lawrence,6,5075
+5,Arkansas,AR,77,Lee,6,5077
+5,Arkansas,AR,79,Lincoln,6,5079
+5,Arkansas,AR,81,Little River,6,5081
+5,Arkansas,AR,83,Logan,6,5083
+5,Arkansas,AR,85,Lonoke,6,5085
+5,Arkansas,AR,87,Madison,6,5087
+5,Arkansas,AR,89,Marion,6,5089
+5,Arkansas,AR,91,Miller,6,5091
+5,Arkansas,AR,93,Mississippi,6,5093
+5,Arkansas,AR,95,Monroe,6,5095
+5,Arkansas,AR,97,Montgomery,6,5097
+5,Arkansas,AR,99,Nevada,6,5099
+5,Arkansas,AR,101,Newton,6,5101
+5,Arkansas,AR,103,Ouachita,6,5103
+5,Arkansas,AR,105,Perry,6,5105
+5,Arkansas,AR,107,Phillips,6,5107
+5,Arkansas,AR,109,Pike,6,5109
+5,Arkansas,AR,111,Poinsett,6,5111
+5,Arkansas,AR,113,Polk,6,5113
+5,Arkansas,AR,115,Pope,6,5115
+5,Arkansas,AR,117,Prairie,6,5117
+5,Arkansas,AR,119,Pulaski,6,5119
+5,Arkansas,AR,121,Randolph,6,5121
+5,Arkansas,AR,123,St. Francis,6,5123
+5,Arkansas,AR,125,Saline,6,5125
+5,Arkansas,AR,127,Scott,6,5127
+5,Arkansas,AR,129,Searcy,6,5129
+5,Arkansas,AR,131,Sebastian,6,5131
+5,Arkansas,AR,133,Sevier,6,5133
+5,Arkansas,AR,135,Sharp,6,5135
+5,Arkansas,AR,137,Stone,6,5137
+5,Arkansas,AR,139,Union,6,5139
+5,Arkansas,AR,141,Van Buren,6,5141
+5,Arkansas,AR,143,Washington,6,5143
+5,Arkansas,AR,145,White,6,5145
+5,Arkansas,AR,147,Woodruff,6,5147
+5,Arkansas,AR,149,Yell,6,5149
+6,California,CA,1,Alameda,9,6001
+6,California,CA,3,Alpine,9,6003
+6,California,CA,5,Amador,9,6005
+6,California,CA,7,Butte,9,6007
+6,California,CA,9,Calaveras,9,6009
+6,California,CA,11,Colusa,9,6011
+6,California,CA,13,Contra Costa,9,6013
+6,California,CA,15,Del Norte,9,6015
+6,California,CA,17,El Dorado,9,6017
+6,California,CA,19,Fresno,9,6019
+6,California,CA,21,Glenn,9,6021
+6,California,CA,23,Humboldt,9,6023
+6,California,CA,25,Imperial,9,6025
+6,California,CA,27,Inyo,9,6027
+6,California,CA,29,Kern,9,6029
+6,California,CA,31,Kings,9,6031
+6,California,CA,33,Lake,9,6033
+6,California,CA,35,Lassen,9,6035
+6,California,CA,37,Los Angeles,9,6037
+6,California,CA,39,Madera,9,6039
+6,California,CA,41,Marin,9,6041
+6,California,CA,43,Mariposa,9,6043
+6,California,CA,45,Mendocino,9,6045
+6,California,CA,47,Merced,9,6047
+6,California,CA,49,Modoc,9,6049
+6,California,CA,51,Mono,9,6051
+6,California,CA,53,Monterey,9,6053
+6,California,CA,55,Napa,9,6055
+6,California,CA,57,Nevada,9,6057
+6,California,CA,59,Orange,9,6059
+6,California,CA,61,Placer,9,6061
+6,California,CA,63,Plumas,9,6063
+6,California,CA,65,Riverside,9,6065
+6,California,CA,67,Sacramento,9,6067
+6,California,CA,69,San Benito,9,6069
+6,California,CA,71,San Bernardino,9,6071
+6,California,CA,73,San Diego,9,6073
+6,California,CA,75,San Francisco,9,6075
+6,California,CA,77,San Joaquin,9,6077
+6,California,CA,79,San Luis Obispo,9,6079
+6,California,CA,81,San Mateo,9,6081
+6,California,CA,83,Santa Barbara,9,6083
+6,California,CA,85,Santa Clara,9,6085
+6,California,CA,87,Santa Cruz,9,6087
+6,California,CA,89,Shasta,9,6089
+6,California,CA,91,Sierra,9,6091
+6,California,CA,93,Siskiyou,9,6093
+6,California,CA,95,Solano,9,6095
+6,California,CA,97,Sonoma,9,6097
+6,California,CA,99,Stanislaus,9,6099
+6,California,CA,101,Sutter,9,6101
+6,California,CA,103,Tehama,9,6103
+6,California,CA,105,Trinity,9,6105
+6,California,CA,107,Tulare,9,6107
+6,California,CA,109,Tuolumne,9,6109
+6,California,CA,111,Ventura,9,6111
+6,California,CA,113,Yolo,9,6113
+6,California,CA,115,Yuba,9,6115
+8,Colorado,CO,1,Adams,8,8001
+8,Colorado,CO,3,Alamosa,8,8003
+8,Colorado,CO,5,Arapahoe,8,8005
+8,Colorado,CO,7,Archuleta,8,8007
+8,Colorado,CO,9,Baca,8,8009
+8,Colorado,CO,11,Bent,8,8011
+8,Colorado,CO,13,Boulder,8,8013
+8,Colorado,CO,14,Broomfield,8,8014
+8,Colorado,CO,15,Chaffee,8,8015
+8,Colorado,CO,17,Cheyenne,8,8017
+8,Colorado,CO,19,Clear Creek,8,8019
+8,Colorado,CO,21,Conejos,8,8021
+8,Colorado,CO,23,Costilla,8,8023
+8,Colorado,CO,25,Crowley,8,8025
+8,Colorado,CO,27,Custer,8,8027
+8,Colorado,CO,29,Delta,8,8029
+8,Colorado,CO,31,Denver,8,8031
+8,Colorado,CO,33,Dolores,8,8033
+8,Colorado,CO,35,Douglas,8,8035
+8,Colorado,CO,37,Eagle,8,8037
+8,Colorado,CO,39,Elbert,8,8039
+8,Colorado,CO,41,El Paso,8,8041
+8,Colorado,CO,43,Fremont,8,8043
+8,Colorado,CO,45,Garfield,8,8045
+8,Colorado,CO,47,Gilpin,8,8047
+8,Colorado,CO,49,Grand,8,8049
+8,Colorado,CO,51,Gunnison,8,8051
+8,Colorado,CO,53,Hinsdale,8,8053
+8,Colorado,CO,55,Huerfano,8,8055
+8,Colorado,CO,57,Jackson,8,8057
+8,Colorado,CO,59,Jefferson,8,8059
+8,Colorado,CO,61,Kiowa,8,8061
+8,Colorado,CO,63,Kit Carson,8,8063
+8,Colorado,CO,65,Lake,8,8065
+8,Colorado,CO,67,La Plata,8,8067
+8,Colorado,CO,69,Larimer,8,8069
+8,Colorado,CO,71,Las Animas,8,8071
+8,Colorado,CO,73,Lincoln,8,8073
+8,Colorado,CO,75,Logan,8,8075
+8,Colorado,CO,77,Mesa,8,8077
+8,Colorado,CO,79,Mineral,8,8079
+8,Colorado,CO,81,Moffat,8,8081
+8,Colorado,CO,83,Montezuma,8,8083
+8,Colorado,CO,85,Montrose,8,8085
+8,Colorado,CO,87,Morgan,8,8087
+8,Colorado,CO,89,Otero,8,8089
+8,Colorado,CO,91,Ouray,8,8091
+8,Colorado,CO,93,Park,8,8093
+8,Colorado,CO,95,Phillips,8,8095
+8,Colorado,CO,97,Pitkin,8,8097
+8,Colorado,CO,99,Prowers,8,8099
+8,Colorado,CO,101,Pueblo,8,8101
+8,Colorado,CO,103,Rio Blanco,8,8103
+8,Colorado,CO,105,Rio Grande,8,8105
+8,Colorado,CO,107,Routt,8,8107
+8,Colorado,CO,109,Saguache,8,8109
+8,Colorado,CO,111,San Juan,8,8111
+8,Colorado,CO,113,San Miguel,8,8113
+8,Colorado,CO,115,Sedgwick,8,8115
+8,Colorado,CO,117,Summit,8,8117
+8,Colorado,CO,119,Teller,8,8119
+8,Colorado,CO,121,Washington,8,8121
+8,Colorado,CO,123,Weld,8,8123
+8,Colorado,CO,125,Yuma,8,8125
+9,Connecticut,CT,1,Fairfield,1,9001
+9,Connecticut,CT,3,Hartford,1,9003
+9,Connecticut,CT,5,Litchfield,1,9005
+9,Connecticut,CT,7,Middlesex,1,9007
+9,Connecticut,CT,9,New Haven,1,9009
+9,Connecticut,CT,11,New London,1,9011
+9,Connecticut,CT,13,Tolland,1,9013
+9,Connecticut,CT,15,Windham,1,9015
+10,Delaware,DE,1,Kent,3,10001
+10,Delaware,DE,3,New Castle,3,10003
+10,Delaware,DE,5,Sussex,3,10005
+11,District Of Columbia,DC,1,District of Columbia,3,11001
+12,Florida,FL,1,Alachua,4,12001
+12,Florida,FL,3,Baker,4,12003
+12,Florida,FL,5,Bay,4,12005
+12,Florida,FL,7,Bradford,4,12007
+12,Florida,FL,9,Brevard,4,12009
+12,Florida,FL,11,Broward,4,12011
+12,Florida,FL,13,Calhoun,4,12013
+12,Florida,FL,15,Charlotte,4,12015
+12,Florida,FL,17,Citrus,4,12017
+12,Florida,FL,19,Clay,4,12019
+12,Florida,FL,21,Collier,4,12021
+12,Florida,FL,23,Columbia,4,12023
+12,Florida,FL,27,DeSoto,4,12027
+12,Florida,FL,29,Dixie,4,12029
+12,Florida,FL,31,Duval,4,12031
+12,Florida,FL,33,Escambia,4,12033
+12,Florida,FL,35,Flagler,4,12035
+12,Florida,FL,37,Franklin,4,12037
+12,Florida,FL,39,Gadsden,4,12039
+12,Florida,FL,41,Gilchrist,4,12041
+12,Florida,FL,43,Glades,4,12043
+12,Florida,FL,45,Gulf,4,12045
+12,Florida,FL,47,Hamilton,4,12047
+12,Florida,FL,49,Hardee,4,12049
+12,Florida,FL,51,Hendry,4,12051
+12,Florida,FL,53,Hernando,4,12053
+12,Florida,FL,55,Highlands,4,12055
+12,Florida,FL,57,Hillsborough,4,12057
+12,Florida,FL,59,Holmes,4,12059
+12,Florida,FL,61,Indian River,4,12061
+12,Florida,FL,63,Jackson,4,12063
+12,Florida,FL,65,Jefferson,4,12065
+12,Florida,FL,67,Lafayette,4,12067
+12,Florida,FL,69,Lake,4,12069
+12,Florida,FL,71,Lee,4,12071
+12,Florida,FL,73,Leon,4,12073
+12,Florida,FL,75,Levy,4,12075
+12,Florida,FL,77,Liberty,4,12077
+12,Florida,FL,79,Madison,4,12079
+12,Florida,FL,81,Manatee,4,12081
+12,Florida,FL,83,Marion,4,12083
+12,Florida,FL,85,Martin,4,12085
+12,Florida,FL,86,Miami-Dade,4,12086
+12,Florida,FL,87,Monroe,4,12087
+12,Florida,FL,89,Nassau,4,12089
+12,Florida,FL,91,Okaloosa,4,12091
+12,Florida,FL,93,Okeechobee,4,12093
+12,Florida,FL,95,Orange,4,12095
+12,Florida,FL,97,Osceola,4,12097
+12,Florida,FL,99,Palm Beach,4,12099
+12,Florida,FL,101,Pasco,4,12101
+12,Florida,FL,103,Pinellas,4,12103
+12,Florida,FL,105,Polk,4,12105
+12,Florida,FL,107,Putnam,4,12107
+12,Florida,FL,109,St. Johns,4,12109
+12,Florida,FL,111,St. Lucie,4,12111
+12,Florida,FL,113,Santa Rosa,4,12113
+12,Florida,FL,115,Sarasota,4,12115
+12,Florida,FL,117,Seminole,4,12117
+12,Florida,FL,119,Sumter,4,12119
+12,Florida,FL,121,Suwannee,4,12121
+12,Florida,FL,123,Taylor,4,12123
+12,Florida,FL,125,Union,4,12125
+12,Florida,FL,127,Volusia,4,12127
+12,Florida,FL,129,Wakulla,4,12129
+12,Florida,FL,131,Walton,4,12131
+12,Florida,FL,133,Washington,4,12133
+13,Georgia,GA,1,Appling,4,13001
+13,Georgia,GA,3,Atkinson,4,13003
+13,Georgia,GA,5,Bacon,4,13005
+13,Georgia,GA,7,Baker,4,13007
+13,Georgia,GA,9,Baldwin,4,13009
+13,Georgia,GA,11,Banks,4,13011
+13,Georgia,GA,13,Barrow,4,13013
+13,Georgia,GA,15,Bartow,4,13015
+13,Georgia,GA,17,Ben Hill,4,13017
+13,Georgia,GA,19,Berrien,4,13019
+13,Georgia,GA,21,Bibb,4,13021
+13,Georgia,GA,23,Bleckley,4,13023
+13,Georgia,GA,25,Brantley,4,13025
+13,Georgia,GA,27,Brooks,4,13027
+13,Georgia,GA,29,Bryan,4,13029
+13,Georgia,GA,31,Bulloch,4,13031
+13,Georgia,GA,33,Burke,4,13033
+13,Georgia,GA,35,Butts,4,13035
+13,Georgia,GA,37,Calhoun,4,13037
+13,Georgia,GA,39,Camden,4,13039
+13,Georgia,GA,43,Candler,4,13043
+13,Georgia,GA,45,Carroll,4,13045
+13,Georgia,GA,47,Catoosa,4,13047
+13,Georgia,GA,49,Charlton,4,13049
+13,Georgia,GA,51,Chatham,4,13051
+13,Georgia,GA,53,Chattahoochee,4,13053
+13,Georgia,GA,55,Chattooga,4,13055
+13,Georgia,GA,57,Cherokee,4,13057
+13,Georgia,GA,59,Clarke,4,13059
+13,Georgia,GA,61,Clay,4,13061
+13,Georgia,GA,63,Clayton,4,13063
+13,Georgia,GA,65,Clinch,4,13065
+13,Georgia,GA,67,Cobb,4,13067
+13,Georgia,GA,69,Coffee,4,13069
+13,Georgia,GA,71,Colquitt,4,13071
+13,Georgia,GA,73,Columbia,4,13073
+13,Georgia,GA,75,Cook,4,13075
+13,Georgia,GA,77,Coweta,4,13077
+13,Georgia,GA,79,Crawford,4,13079
+13,Georgia,GA,81,Crisp,4,13081
+13,Georgia,GA,83,Dade,4,13083
+13,Georgia,GA,85,Dawson,4,13085
+13,Georgia,GA,87,Decatur,4,13087
+13,Georgia,GA,89,DeKalb,4,13089
+13,Georgia,GA,91,Dodge,4,13091
+13,Georgia,GA,93,Dooly,4,13093
+13,Georgia,GA,95,Dougherty,4,13095
+13,Georgia,GA,97,Douglas,4,13097
+13,Georgia,GA,99,Early,4,13099
+13,Georgia,GA,101,Echols,4,13101
+13,Georgia,GA,103,Effingham,4,13103
+13,Georgia,GA,105,Elbert,4,13105
+13,Georgia,GA,107,Emanuel,4,13107
+13,Georgia,GA,109,Evans,4,13109
+13,Georgia,GA,111,Fannin,4,13111
+13,Georgia,GA,113,Fayette,4,13113
+13,Georgia,GA,115,Floyd,4,13115
+13,Georgia,GA,117,Forsyth,4,13117
+13,Georgia,GA,119,Franklin,4,13119
+13,Georgia,GA,121,Fulton,4,13121
+13,Georgia,GA,123,Gilmer,4,13123
+13,Georgia,GA,125,Glascock,4,13125
+13,Georgia,GA,127,Glynn,4,13127
+13,Georgia,GA,129,Gordon,4,13129
+13,Georgia,GA,131,Grady,4,13131
+13,Georgia,GA,133,Greene,4,13133
+13,Georgia,GA,135,Gwinnett,4,13135
+13,Georgia,GA,137,Habersham,4,13137
+13,Georgia,GA,139,Hall,4,13139
+13,Georgia,GA,141,Hancock,4,13141
+13,Georgia,GA,143,Haralson,4,13143
+13,Georgia,GA,145,Harris,4,13145
+13,Georgia,GA,147,Hart,4,13147
+13,Georgia,GA,149,Heard,4,13149
+13,Georgia,GA,151,Henry,4,13151
+13,Georgia,GA,153,Houston,4,13153
+13,Georgia,GA,155,Irwin,4,13155
+13,Georgia,GA,157,Jackson,4,13157
+13,Georgia,GA,159,Jasper,4,13159
+13,Georgia,GA,161,Jeff Davis,4,13161
+13,Georgia,GA,163,Jefferson,4,13163
+13,Georgia,GA,165,Jenkins,4,13165
+13,Georgia,GA,167,Johnson,4,13167
+13,Georgia,GA,169,Jones,4,13169
+13,Georgia,GA,171,Lamar,4,13171
+13,Georgia,GA,173,Lanier,4,13173
+13,Georgia,GA,175,Laurens,4,13175
+13,Georgia,GA,177,Lee,4,13177
+13,Georgia,GA,179,Liberty,4,13179
+13,Georgia,GA,181,Lincoln,4,13181
+13,Georgia,GA,183,Long,4,13183
+13,Georgia,GA,185,Lowndes,4,13185
+13,Georgia,GA,187,Lumpkin,4,13187
+13,Georgia,GA,189,McDuffie,4,13189
+13,Georgia,GA,191,McIntosh,4,13191
+13,Georgia,GA,193,Macon,4,13193
+13,Georgia,GA,195,Madison,4,13195
+13,Georgia,GA,197,Marion,4,13197
+13,Georgia,GA,199,Meriwether,4,13199
+13,Georgia,GA,201,Miller,4,13201
+13,Georgia,GA,205,Mitchell,4,13205
+13,Georgia,GA,207,Monroe,4,13207
+13,Georgia,GA,209,Montgomery,4,13209
+13,Georgia,GA,211,Morgan,4,13211
+13,Georgia,GA,213,Murray,4,13213
+13,Georgia,GA,215,Muscogee,4,13215
+13,Georgia,GA,217,Newton,4,13217
+13,Georgia,GA,219,Oconee,4,13219
+13,Georgia,GA,221,Oglethorpe,4,13221
+13,Georgia,GA,223,Paulding,4,13223
+13,Georgia,GA,225,Peach,4,13225
+13,Georgia,GA,227,Pickens,4,13227
+13,Georgia,GA,229,Pierce,4,13229
+13,Georgia,GA,231,Pike,4,13231
+13,Georgia,GA,233,Polk,4,13233
+13,Georgia,GA,235,Pulaski,4,13235
+13,Georgia,GA,237,Putnam,4,13237
+13,Georgia,GA,239,Quitman,4,13239
+13,Georgia,GA,241,Rabun,4,13241
+13,Georgia,GA,243,Randolph,4,13243
+13,Georgia,GA,245,Richmond,4,13245
+13,Georgia,GA,247,Rockdale,4,13247
+13,Georgia,GA,249,Schley,4,13249
+13,Georgia,GA,251,Screven,4,13251
+13,Georgia,GA,253,Seminole,4,13253
+13,Georgia,GA,255,Spalding,4,13255
+13,Georgia,GA,257,Stephens,4,13257
+13,Georgia,GA,259,Stewart,4,13259
+13,Georgia,GA,261,Sumter,4,13261
+13,Georgia,GA,263,Talbot,4,13263
+13,Georgia,GA,265,Taliaferro,4,13265
+13,Georgia,GA,267,Tattnall,4,13267
+13,Georgia,GA,269,Taylor,4,13269
+13,Georgia,GA,271,Telfair,4,13271
+13,Georgia,GA,273,Terrell,4,13273
+13,Georgia,GA,275,Thomas,4,13275
+13,Georgia,GA,277,Tift,4,13277
+13,Georgia,GA,279,Toombs,4,13279
+13,Georgia,GA,281,Towns,4,13281
+13,Georgia,GA,283,Treutlen,4,13283
+13,Georgia,GA,285,Troup,4,13285
+13,Georgia,GA,287,Turner,4,13287
+13,Georgia,GA,289,Twiggs,4,13289
+13,Georgia,GA,291,Union,4,13291
+13,Georgia,GA,293,Upson,4,13293
+13,Georgia,GA,295,Walker,4,13295
+13,Georgia,GA,297,Walton,4,13297
+13,Georgia,GA,299,Ware,4,13299
+13,Georgia,GA,301,Warren,4,13301
+13,Georgia,GA,303,Washington,4,13303
+13,Georgia,GA,305,Wayne,4,13305
+13,Georgia,GA,307,Webster,4,13307
+13,Georgia,GA,309,Wheeler,4,13309
+13,Georgia,GA,311,White,4,13311
+13,Georgia,GA,313,Whitfield,4,13313
+13,Georgia,GA,315,Wilcox,4,13315
+13,Georgia,GA,317,Wilkes,4,13317
+13,Georgia,GA,319,Wilkinson,4,13319
+13,Georgia,GA,321,Worth,4,13321
+15,Hawaii,HI,1,Hawaii,9,15001
+15,Hawaii,HI,3,Honolulu,9,15003
+15,Hawaii,HI,5,Kalawao,9,15005
+15,Hawaii,HI,7,Kauai,9,15007
+15,Hawaii,HI,9,Maui,9,15009
+16,Idaho,ID,1,Ada,10,16001
+16,Idaho,ID,3,Adams,10,16003
+16,Idaho,ID,5,Bannock,10,16005
+16,Idaho,ID,7,Bear Lake,10,16007
+16,Idaho,ID,9,Benewah,10,16009
+16,Idaho,ID,11,Bingham,10,16011
+16,Idaho,ID,13,Blaine,10,16013
+16,Idaho,ID,15,Boise,10,16015
+16,Idaho,ID,17,Bonner,10,16017
+16,Idaho,ID,19,Bonneville,10,16019
+16,Idaho,ID,21,Boundary,10,16021
+16,Idaho,ID,23,Butte,10,16023
+16,Idaho,ID,25,Camas,10,16025
+16,Idaho,ID,27,Canyon,10,16027
+16,Idaho,ID,29,Caribou,10,16029
+16,Idaho,ID,31,Cassia,10,16031
+16,Idaho,ID,33,Clark,10,16033
+16,Idaho,ID,35,Clearwater,10,16035
+16,Idaho,ID,37,Custer,10,16037
+16,Idaho,ID,39,Elmore,10,16039
+16,Idaho,ID,41,Franklin,10,16041
+16,Idaho,ID,43,Fremont,10,16043
+16,Idaho,ID,45,Gem,10,16045
+16,Idaho,ID,47,Gooding,10,16047
+16,Idaho,ID,49,Idaho,10,16049
+16,Idaho,ID,51,Jefferson,10,16051
+16,Idaho,ID,53,Jerome,10,16053
+16,Idaho,ID,55,Kootenai,10,16055
+16,Idaho,ID,57,Latah,10,16057
+16,Idaho,ID,59,Lemhi,10,16059
+16,Idaho,ID,61,Lewis,10,16061
+16,Idaho,ID,63,Lincoln,10,16063
+16,Idaho,ID,65,Madison,10,16065
+16,Idaho,ID,67,Minidoka,10,16067
+16,Idaho,ID,69,Nez Perce,10,16069
+16,Idaho,ID,71,Oneida,10,16071
+16,Idaho,ID,73,Owyhee,10,16073
+16,Idaho,ID,75,Payette,10,16075
+16,Idaho,ID,77,Power,10,16077
+16,Idaho,ID,79,Shoshone,10,16079
+16,Idaho,ID,81,Teton,10,16081
+16,Idaho,ID,83,Twin Falls,10,16083
+16,Idaho,ID,85,Valley,10,16085
+16,Idaho,ID,87,Washington,10,16087
+17,Illinois,IL,1,Adams,5,17001
+17,Illinois,IL,3,Alexander,5,17003
+17,Illinois,IL,5,Bond,5,17005
+17,Illinois,IL,7,Boone,5,17007
+17,Illinois,IL,9,Brown,5,17009
+17,Illinois,IL,11,Bureau,5,17011
+17,Illinois,IL,13,Calhoun,5,17013
+17,Illinois,IL,15,Carroll,5,17015
+17,Illinois,IL,17,Cass,5,17017
+17,Illinois,IL,19,Champaign,5,17019
+17,Illinois,IL,21,Christian,5,17021
+17,Illinois,IL,23,Clark,5,17023
+17,Illinois,IL,25,Clay,5,17025
+17,Illinois,IL,27,Clinton,5,17027
+17,Illinois,IL,29,Coles,5,17029
+17,Illinois,IL,31,Cook,5,17031
+17,Illinois,IL,33,Crawford,5,17033
+17,Illinois,IL,35,Cumberland,5,17035
+17,Illinois,IL,37,DeKalb,5,17037
+17,Illinois,IL,39,De Witt,5,17039
+17,Illinois,IL,41,Douglas,5,17041
+17,Illinois,IL,43,DuPage,5,17043
+17,Illinois,IL,45,Edgar,5,17045
+17,Illinois,IL,47,Edwards,5,17047
+17,Illinois,IL,49,Effingham,5,17049
+17,Illinois,IL,51,Fayette,5,17051
+17,Illinois,IL,53,Ford,5,17053
+17,Illinois,IL,55,Franklin,5,17055
+17,Illinois,IL,57,Fulton,5,17057
+17,Illinois,IL,59,Gallatin,5,17059
+17,Illinois,IL,61,Greene,5,17061
+17,Illinois,IL,63,Grundy,5,17063
+17,Illinois,IL,65,Hamilton,5,17065
+17,Illinois,IL,67,Hancock,5,17067
+17,Illinois,IL,69,Hardin,5,17069
+17,Illinois,IL,71,Henderson,5,17071
+17,Illinois,IL,73,Henry,5,17073
+17,Illinois,IL,75,Iroquois,5,17075
+17,Illinois,IL,77,Jackson,5,17077
+17,Illinois,IL,79,Jasper,5,17079
+17,Illinois,IL,81,Jefferson,5,17081
+17,Illinois,IL,83,Jersey,5,17083
+17,Illinois,IL,85,Jo Daviess,5,17085
+17,Illinois,IL,87,Johnson,5,17087
+17,Illinois,IL,89,Kane,5,17089
+17,Illinois,IL,91,Kankakee,5,17091
+17,Illinois,IL,93,Kendall,5,17093
+17,Illinois,IL,95,Knox,5,17095
+17,Illinois,IL,97,Lake,5,17097
+17,Illinois,IL,99,La Salle,5,17099
+17,Illinois,IL,101,Lawrence,5,17101
+17,Illinois,IL,103,Lee,5,17103
+17,Illinois,IL,105,Livingston,5,17105
+17,Illinois,IL,107,Logan,5,17107
+17,Illinois,IL,109,McDonough,5,17109
+17,Illinois,IL,111,McHenry,5,17111
+17,Illinois,IL,113,McLean,5,17113
+17,Illinois,IL,115,Macon,5,17115
+17,Illinois,IL,117,Macoupin,5,17117
+17,Illinois,IL,119,Madison,5,17119
+17,Illinois,IL,121,Marion,5,17121
+17,Illinois,IL,123,Marshall,5,17123
+17,Illinois,IL,125,Mason,5,17125
+17,Illinois,IL,127,Massac,5,17127
+17,Illinois,IL,129,Menard,5,17129
+17,Illinois,IL,131,Mercer,5,17131
+17,Illinois,IL,133,Monroe,5,17133
+17,Illinois,IL,135,Montgomery,5,17135
+17,Illinois,IL,137,Morgan,5,17137
+17,Illinois,IL,139,Moultrie,5,17139
+17,Illinois,IL,141,Ogle,5,17141
+17,Illinois,IL,143,Peoria,5,17143
+17,Illinois,IL,145,Perry,5,17145
+17,Illinois,IL,147,Piatt,5,17147
+17,Illinois,IL,149,Pike,5,17149
+17,Illinois,IL,151,Pope,5,17151
+17,Illinois,IL,153,Pulaski,5,17153
+17,Illinois,IL,155,Putnam,5,17155
+17,Illinois,IL,157,Randolph,5,17157
+17,Illinois,IL,159,Richland,5,17159
+17,Illinois,IL,161,Rock Island,5,17161
+17,Illinois,IL,163,Saint Clair,5,17163
+17,Illinois,IL,165,Saline,5,17165
+17,Illinois,IL,167,Sangamon,5,17167
+17,Illinois,IL,169,Schuyler,5,17169
+17,Illinois,IL,171,Scott,5,17171
+17,Illinois,IL,173,Shelby,5,17173
+17,Illinois,IL,175,Stark,5,17175
+17,Illinois,IL,177,Stephenson,5,17177
+17,Illinois,IL,179,Tazewell,5,17179
+17,Illinois,IL,181,Union,5,17181
+17,Illinois,IL,183,Vermilion,5,17183
+17,Illinois,IL,185,Wabash,5,17185
+17,Illinois,IL,187,Warren,5,17187
+17,Illinois,IL,189,Washington,5,17189
+17,Illinois,IL,191,Wayne,5,17191
+17,Illinois,IL,193,White,5,17193
+17,Illinois,IL,195,Whiteside,5,17195
+17,Illinois,IL,197,Will,5,17197
+17,Illinois,IL,199,Williamson,5,17199
+17,Illinois,IL,201,Winnebago,5,17201
+17,Illinois,IL,203,Woodford,5,17203
+18,Indiana,IN,1,Adams,5,18001
+18,Indiana,IN,3,Allen,5,18003
+18,Indiana,IN,5,Bartholomew,5,18005
+18,Indiana,IN,7,Benton,5,18007
+18,Indiana,IN,9,Blackford,5,18009
+18,Indiana,IN,11,Boone,5,18011
+18,Indiana,IN,13,Brown,5,18013
+18,Indiana,IN,15,Carroll,5,18015
+18,Indiana,IN,17,Cass,5,18017
+18,Indiana,IN,19,Clark,5,18019
+18,Indiana,IN,21,Clay,5,18021
+18,Indiana,IN,23,Clinton,5,18023
+18,Indiana,IN,25,Crawford,5,18025
+18,Indiana,IN,27,Daviess,5,18027
+18,Indiana,IN,29,Dearborn,5,18029
+18,Indiana,IN,31,Decatur,5,18031
+18,Indiana,IN,33,DeKalb,5,18033
+18,Indiana,IN,35,Delaware,5,18035
+18,Indiana,IN,37,Dubois,5,18037
+18,Indiana,IN,39,Elkhart,5,18039
+18,Indiana,IN,41,Fayette,5,18041
+18,Indiana,IN,43,Floyd,5,18043
+18,Indiana,IN,45,Fountain,5,18045
+18,Indiana,IN,47,Franklin,5,18047
+18,Indiana,IN,49,Fulton,5,18049
+18,Indiana,IN,51,Gibson,5,18051
+18,Indiana,IN,53,Grant,5,18053
+18,Indiana,IN,55,Greene,5,18055
+18,Indiana,IN,57,Hamilton,5,18057
+18,Indiana,IN,59,Hancock,5,18059
+18,Indiana,IN,61,Harrison,5,18061
+18,Indiana,IN,63,Hendricks,5,18063
+18,Indiana,IN,65,Henry,5,18065
+18,Indiana,IN,67,Howard,5,18067
+18,Indiana,IN,69,Huntington,5,18069
+18,Indiana,IN,71,Jackson,5,18071
+18,Indiana,IN,73,Jasper,5,18073
+18,Indiana,IN,75,Jay,5,18075
+18,Indiana,IN,77,Jefferson,5,18077
+18,Indiana,IN,79,Jennings,5,18079
+18,Indiana,IN,81,Johnson,5,18081
+18,Indiana,IN,83,Knox,5,18083
+18,Indiana,IN,85,Kosciusko,5,18085
+18,Indiana,IN,87,LaGrange,5,18087
+18,Indiana,IN,89,Lake,5,18089
+18,Indiana,IN,91,LaPorte,5,18091
+18,Indiana,IN,93,Lawrence,5,18093
+18,Indiana,IN,95,Madison,5,18095
+18,Indiana,IN,97,Marion,5,18097
+18,Indiana,IN,99,Marshall,5,18099
+18,Indiana,IN,101,Martin,5,18101
+18,Indiana,IN,103,Miami,5,18103
+18,Indiana,IN,105,Monroe,5,18105
+18,Indiana,IN,107,Montgomery,5,18107
+18,Indiana,IN,109,Morgan,5,18109
+18,Indiana,IN,111,Newton,5,18111
+18,Indiana,IN,113,Noble,5,18113
+18,Indiana,IN,115,Ohio,5,18115
+18,Indiana,IN,117,Orange,5,18117
+18,Indiana,IN,119,Owen,5,18119
+18,Indiana,IN,121,Parke,5,18121
+18,Indiana,IN,123,Perry,5,18123
+18,Indiana,IN,125,Pike,5,18125
+18,Indiana,IN,127,Porter,5,18127
+18,Indiana,IN,129,Posey,5,18129
+18,Indiana,IN,131,Pulaski,5,18131
+18,Indiana,IN,133,Putnam,5,18133
+18,Indiana,IN,135,Randolph,5,18135
+18,Indiana,IN,137,Ripley,5,18137
+18,Indiana,IN,139,Rush,5,18139
+18,Indiana,IN,141,St. Joseph,5,18141
+18,Indiana,IN,143,Scott,5,18143
+18,Indiana,IN,145,Shelby,5,18145
+18,Indiana,IN,147,Spencer,5,18147
+18,Indiana,IN,149,Starke,5,18149
+18,Indiana,IN,151,Steuben,5,18151
+18,Indiana,IN,153,Sullivan,5,18153
+18,Indiana,IN,155,Switzerland,5,18155
+18,Indiana,IN,157,Tippecanoe,5,18157
+18,Indiana,IN,159,Tipton,5,18159
+18,Indiana,IN,161,Union,5,18161
+18,Indiana,IN,163,Vanderburgh,5,18163
+18,Indiana,IN,165,Vermillion,5,18165
+18,Indiana,IN,167,Vigo,5,18167
+18,Indiana,IN,169,Wabash,5,18169
+18,Indiana,IN,171,Warren,5,18171
+18,Indiana,IN,173,Warrick,5,18173
+18,Indiana,IN,175,Washington,5,18175
+18,Indiana,IN,177,Wayne,5,18177
+18,Indiana,IN,179,Wells,5,18179
+18,Indiana,IN,181,White,5,18181
+18,Indiana,IN,183,Whitley,5,18183
+19,Iowa,IA,1,Adair,7,19001
+19,Iowa,IA,3,Adams,7,19003
+19,Iowa,IA,5,Allamakee,7,19005
+19,Iowa,IA,7,Appanoose,7,19007
+19,Iowa,IA,9,Audubon,7,19009
+19,Iowa,IA,11,Benton,7,19011
+19,Iowa,IA,13,Black Hawk,7,19013
+19,Iowa,IA,15,Boone,7,19015
+19,Iowa,IA,17,Bremer,7,19017
+19,Iowa,IA,19,Buchanan,7,19019
+19,Iowa,IA,21,Buena Vista,7,19021
+19,Iowa,IA,23,Butler,7,19023
+19,Iowa,IA,25,Calhoun,7,19025
+19,Iowa,IA,27,Carroll,7,19027
+19,Iowa,IA,29,Cass,7,19029
+19,Iowa,IA,31,Cedar,7,19031
+19,Iowa,IA,33,Cerro Gordo,7,19033
+19,Iowa,IA,35,Cherokee,7,19035
+19,Iowa,IA,37,Chickasaw,7,19037
+19,Iowa,IA,39,Clarke,7,19039
+19,Iowa,IA,41,Clay,7,19041
+19,Iowa,IA,43,Clayton,7,19043
+19,Iowa,IA,45,Clinton,7,19045
+19,Iowa,IA,47,Crawford,7,19047
+19,Iowa,IA,49,Dallas,7,19049
+19,Iowa,IA,51,Davis,7,19051
+19,Iowa,IA,53,Decatur,7,19053
+19,Iowa,IA,55,Delaware,7,19055
+19,Iowa,IA,57,Des Moines,7,19057
+19,Iowa,IA,59,Dickinson,7,19059
+19,Iowa,IA,61,Dubuque,7,19061
+19,Iowa,IA,63,Emmet,7,19063
+19,Iowa,IA,65,Fayette,7,19065
+19,Iowa,IA,67,Floyd,7,19067
+19,Iowa,IA,69,Franklin,7,19069
+19,Iowa,IA,71,Fremont,7,19071
+19,Iowa,IA,73,Greene,7,19073
+19,Iowa,IA,75,Grundy,7,19075
+19,Iowa,IA,77,Guthrie,7,19077
+19,Iowa,IA,79,Hamilton,7,19079
+19,Iowa,IA,81,Hancock,7,19081
+19,Iowa,IA,83,Hardin,7,19083
+19,Iowa,IA,85,Harrison,7,19085
+19,Iowa,IA,87,Henry,7,19087
+19,Iowa,IA,89,Howard,7,19089
+19,Iowa,IA,91,Humboldt,7,19091
+19,Iowa,IA,93,Ida,7,19093
+19,Iowa,IA,95,Iowa,7,19095
+19,Iowa,IA,97,Jackson,7,19097
+19,Iowa,IA,99,Jasper,7,19099
+19,Iowa,IA,101,Jefferson,7,19101
+19,Iowa,IA,103,Johnson,7,19103
+19,Iowa,IA,105,Jones,7,19105
+19,Iowa,IA,107,Keokuk,7,19107
+19,Iowa,IA,109,Kossuth,7,19109
+19,Iowa,IA,111,Lee,7,19111
+19,Iowa,IA,113,Linn,7,19113
+19,Iowa,IA,115,Louisa,7,19115
+19,Iowa,IA,117,Lucas,7,19117
+19,Iowa,IA,119,Lyon,7,19119
+19,Iowa,IA,121,Madison,7,19121
+19,Iowa,IA,123,Mahaska,7,19123
+19,Iowa,IA,125,Marion,7,19125
+19,Iowa,IA,127,Marshall,7,19127
+19,Iowa,IA,129,Mills,7,19129
+19,Iowa,IA,131,Mitchell,7,19131
+19,Iowa,IA,133,Monona,7,19133
+19,Iowa,IA,135,Monroe,7,19135
+19,Iowa,IA,137,Montgomery,7,19137
+19,Iowa,IA,139,Muscatine,7,19139
+19,Iowa,IA,141,O'Brien,7,19141
+19,Iowa,IA,143,Osceola,7,19143
+19,Iowa,IA,145,Page,7,19145
+19,Iowa,IA,147,Palo Alto,7,19147
+19,Iowa,IA,149,Plymouth,7,19149
+19,Iowa,IA,151,Pocahontas,7,19151
+19,Iowa,IA,153,Polk,7,19153
+19,Iowa,IA,155,Pottawattamie,7,19155
+19,Iowa,IA,157,Poweshiek,7,19157
+19,Iowa,IA,159,Ringgold,7,19159
+19,Iowa,IA,161,Sac,7,19161
+19,Iowa,IA,163,Scott,7,19163
+19,Iowa,IA,165,Shelby,7,19165
+19,Iowa,IA,167,Sioux,7,19167
+19,Iowa,IA,169,Story,7,19169
+19,Iowa,IA,171,Tama,7,19171
+19,Iowa,IA,173,Taylor,7,19173
+19,Iowa,IA,175,Union,7,19175
+19,Iowa,IA,177,Van Buren,7,19177
+19,Iowa,IA,179,Wapello,7,19179
+19,Iowa,IA,181,Warren,7,19181
+19,Iowa,IA,183,Washington,7,19183
+19,Iowa,IA,185,Wayne,7,19185
+19,Iowa,IA,187,Webster,7,19187
+19,Iowa,IA,189,Winnebago,7,19189
+19,Iowa,IA,191,Winneshiek,7,19191
+19,Iowa,IA,193,Woodbury,7,19193
+19,Iowa,IA,195,Worth,7,19195
+19,Iowa,IA,197,Wright,7,19197
+20,Kansas,KS,1,Allen,7,20001
+20,Kansas,KS,3,Anderson,7,20003
+20,Kansas,KS,5,Atchison,7,20005
+20,Kansas,KS,7,Barber,7,20007
+20,Kansas,KS,9,Barton,7,20009
+20,Kansas,KS,11,Bourbon,7,20011
+20,Kansas,KS,13,Brown,7,20013
+20,Kansas,KS,15,Butler,7,20015
+20,Kansas,KS,17,Chase,7,20017
+20,Kansas,KS,19,Chautauqua,7,20019
+20,Kansas,KS,21,Cherokee,7,20021
+20,Kansas,KS,23,Cheyenne,7,20023
+20,Kansas,KS,25,Clark,7,20025
+20,Kansas,KS,27,Clay,7,20027
+20,Kansas,KS,29,Cloud,7,20029
+20,Kansas,KS,31,Coffey,7,20031
+20,Kansas,KS,33,Comanche,7,20033
+20,Kansas,KS,35,Cowley,7,20035
+20,Kansas,KS,37,Crawford,7,20037
+20,Kansas,KS,39,Decatur,7,20039
+20,Kansas,KS,41,Dickinson,7,20041
+20,Kansas,KS,43,Doniphan,7,20043
+20,Kansas,KS,45,Douglas,7,20045
+20,Kansas,KS,47,Edwards,7,20047
+20,Kansas,KS,49,Elk,7,20049
+20,Kansas,KS,51,Ellis,7,20051
+20,Kansas,KS,53,Ellsworth,7,20053
+20,Kansas,KS,55,Finney,7,20055
+20,Kansas,KS,57,Ford,7,20057
+20,Kansas,KS,59,Franklin,7,20059
+20,Kansas,KS,61,Geary,7,20061
+20,Kansas,KS,63,Gove,7,20063
+20,Kansas,KS,65,Graham,7,20065
+20,Kansas,KS,67,Grant,7,20067
+20,Kansas,KS,69,Gray,7,20069
+20,Kansas,KS,71,Greeley,7,20071
+20,Kansas,KS,73,Greenwood,7,20073
+20,Kansas,KS,75,Hamilton,7,20075
+20,Kansas,KS,77,Harper,7,20077
+20,Kansas,KS,79,Harvey,7,20079
+20,Kansas,KS,81,Haskell,7,20081
+20,Kansas,KS,83,Hodgeman,7,20083
+20,Kansas,KS,85,Jackson,7,20085
+20,Kansas,KS,87,Jefferson,7,20087
+20,Kansas,KS,89,Jewell,7,20089
+20,Kansas,KS,91,Johnson,7,20091
+20,Kansas,KS,93,Kearny,7,20093
+20,Kansas,KS,95,Kingman,7,20095
+20,Kansas,KS,97,Kiowa,7,20097
+20,Kansas,KS,99,Labette,7,20099
+20,Kansas,KS,101,Lane,7,20101
+20,Kansas,KS,103,Leavenworth,7,20103
+20,Kansas,KS,105,Lincoln,7,20105
+20,Kansas,KS,107,Linn,7,20107
+20,Kansas,KS,109,Logan,7,20109
+20,Kansas,KS,111,Lyon,7,20111
+20,Kansas,KS,113,McPherson,7,20113
+20,Kansas,KS,115,Marion,7,20115
+20,Kansas,KS,117,Marshall,7,20117
+20,Kansas,KS,119,Meade,7,20119
+20,Kansas,KS,121,Miami,7,20121
+20,Kansas,KS,123,Mitchell,7,20123
+20,Kansas,KS,125,Montgomery,7,20125
+20,Kansas,KS,127,Morris,7,20127
+20,Kansas,KS,129,Morton,7,20129
+20,Kansas,KS,131,Nemaha,7,20131
+20,Kansas,KS,133,Neosho,7,20133
+20,Kansas,KS,135,Ness,7,20135
+20,Kansas,KS,137,Norton,7,20137
+20,Kansas,KS,139,Osage,7,20139
+20,Kansas,KS,141,Osborne,7,20141
+20,Kansas,KS,143,Ottawa,7,20143
+20,Kansas,KS,145,Pawnee,7,20145
+20,Kansas,KS,147,Phillips,7,20147
+20,Kansas,KS,149,Pottawatomie,7,20149
+20,Kansas,KS,151,Pratt,7,20151
+20,Kansas,KS,153,Rawlins,7,20153
+20,Kansas,KS,155,Reno,7,20155
+20,Kansas,KS,157,Republic,7,20157
+20,Kansas,KS,159,Rice,7,20159
+20,Kansas,KS,161,Riley,7,20161
+20,Kansas,KS,163,Rooks,7,20163
+20,Kansas,KS,165,Rush,7,20165
+20,Kansas,KS,167,Russell,7,20167
+20,Kansas,KS,169,Saline,7,20169
+20,Kansas,KS,171,Scott,7,20171
+20,Kansas,KS,173,Sedgwick,7,20173
+20,Kansas,KS,175,Seward,7,20175
+20,Kansas,KS,177,Shawnee,7,20177
+20,Kansas,KS,179,Sheridan,7,20179
+20,Kansas,KS,181,Sherman,7,20181
+20,Kansas,KS,183,Smith,7,20183
+20,Kansas,KS,185,Stafford,7,20185
+20,Kansas,KS,187,Stanton,7,20187
+20,Kansas,KS,189,Stevens,7,20189
+20,Kansas,KS,191,Sumner,7,20191
+20,Kansas,KS,193,Thomas,7,20193
+20,Kansas,KS,195,Trego,7,20195
+20,Kansas,KS,197,Wabaunsee,7,20197
+20,Kansas,KS,199,Wallace,7,20199
+20,Kansas,KS,201,Washington,7,20201
+20,Kansas,KS,203,Wichita,7,20203
+20,Kansas,KS,205,Wilson,7,20205
+20,Kansas,KS,207,Woodson,7,20207
+20,Kansas,KS,209,Wyandotte,7,20209
+21,Kentucky,KY,1,Adair,4,21001
+21,Kentucky,KY,3,Allen,4,21003
+21,Kentucky,KY,5,Anderson,4,21005
+21,Kentucky,KY,7,Ballard,4,21007
+21,Kentucky,KY,9,Barren,4,21009
+21,Kentucky,KY,11,Bath,4,21011
+21,Kentucky,KY,13,Bell,4,21013
+21,Kentucky,KY,15,Boone,4,21015
+21,Kentucky,KY,17,Bourbon,4,21017
+21,Kentucky,KY,19,Boyd,4,21019
+21,Kentucky,KY,21,Boyle,4,21021
+21,Kentucky,KY,23,Bracken,4,21023
+21,Kentucky,KY,25,Breathitt,4,21025
+21,Kentucky,KY,27,Breckinridge,4,21027
+21,Kentucky,KY,29,Bullitt,4,21029
+21,Kentucky,KY,31,Butler,4,21031
+21,Kentucky,KY,33,Caldwell,4,21033
+21,Kentucky,KY,35,Calloway,4,21035
+21,Kentucky,KY,37,Campbell,4,21037
+21,Kentucky,KY,39,Carlisle,4,21039
+21,Kentucky,KY,41,Carroll,4,21041
+21,Kentucky,KY,43,Carter,4,21043
+21,Kentucky,KY,45,Casey,4,21045
+21,Kentucky,KY,47,Christian,4,21047
+21,Kentucky,KY,49,Clark,4,21049
+21,Kentucky,KY,51,Clay,4,21051
+21,Kentucky,KY,53,Clinton,4,21053
+21,Kentucky,KY,55,Crittenden,4,21055
+21,Kentucky,KY,57,Cumberland,4,21057
+21,Kentucky,KY,59,Daviess,4,21059
+21,Kentucky,KY,61,Edmonson,4,21061
+21,Kentucky,KY,63,Elliott,4,21063
+21,Kentucky,KY,65,Estill,4,21065
+21,Kentucky,KY,67,Fayette,4,21067
+21,Kentucky,KY,69,Fleming,4,21069
+21,Kentucky,KY,71,Floyd,4,21071
+21,Kentucky,KY,73,Franklin,4,21073
+21,Kentucky,KY,75,Fulton,4,21075
+21,Kentucky,KY,77,Gallatin,4,21077
+21,Kentucky,KY,79,Garrard,4,21079
+21,Kentucky,KY,81,Grant,4,21081
+21,Kentucky,KY,83,Graves,4,21083
+21,Kentucky,KY,85,Grayson,4,21085
+21,Kentucky,KY,87,Green,4,21087
+21,Kentucky,KY,89,Greenup,4,21089
+21,Kentucky,KY,91,Hancock,4,21091
+21,Kentucky,KY,93,Hardin,4,21093
+21,Kentucky,KY,95,Harlan,4,21095
+21,Kentucky,KY,97,Harrison,4,21097
+21,Kentucky,KY,99,Hart,4,21099
+21,Kentucky,KY,101,Henderson,4,21101
+21,Kentucky,KY,103,Henry,4,21103
+21,Kentucky,KY,105,Hickman,4,21105
+21,Kentucky,KY,107,Hopkins,4,21107
+21,Kentucky,KY,109,Jackson,4,21109
+21,Kentucky,KY,111,Jefferson,4,21111
+21,Kentucky,KY,113,Jessamine,4,21113
+21,Kentucky,KY,115,Johnson,4,21115
+21,Kentucky,KY,117,Kenton,4,21117
+21,Kentucky,KY,119,Knott,4,21119
+21,Kentucky,KY,121,Knox,4,21121
+21,Kentucky,KY,123,Larue,4,21123
+21,Kentucky,KY,125,Laurel,4,21125
+21,Kentucky,KY,127,Lawrence,4,21127
+21,Kentucky,KY,129,Lee,4,21129
+21,Kentucky,KY,131,Leslie,4,21131
+21,Kentucky,KY,133,Letcher,4,21133
+21,Kentucky,KY,135,Lewis,4,21135
+21,Kentucky,KY,137,Lincoln,4,21137
+21,Kentucky,KY,139,Livingston,4,21139
+21,Kentucky,KY,141,Logan,4,21141
+21,Kentucky,KY,143,Lyon,4,21143
+21,Kentucky,KY,145,McCracken,4,21145
+21,Kentucky,KY,147,McCreary,4,21147
+21,Kentucky,KY,149,McLean,4,21149
+21,Kentucky,KY,151,Madison,4,21151
+21,Kentucky,KY,153,Magoffin,4,21153
+21,Kentucky,KY,155,Marion,4,21155
+21,Kentucky,KY,157,Marshall,4,21157
+21,Kentucky,KY,159,Martin,4,21159
+21,Kentucky,KY,161,Mason,4,21161
+21,Kentucky,KY,163,Meade,4,21163
+21,Kentucky,KY,165,Menifee,4,21165
+21,Kentucky,KY,167,Mercer,4,21167
+21,Kentucky,KY,169,Metcalfe,4,21169
+21,Kentucky,KY,171,Monroe,4,21171
+21,Kentucky,KY,173,Montgomery,4,21173
+21,Kentucky,KY,175,Morgan,4,21175
+21,Kentucky,KY,177,Muhlenberg,4,21177
+21,Kentucky,KY,179,Nelson,4,21179
+21,Kentucky,KY,181,Nicholas,4,21181
+21,Kentucky,KY,183,Ohio,4,21183
+21,Kentucky,KY,185,Oldham,4,21185
+21,Kentucky,KY,187,Owen,4,21187
+21,Kentucky,KY,189,Owsley,4,21189
+21,Kentucky,KY,191,Pendleton,4,21191
+21,Kentucky,KY,193,Perry,4,21193
+21,Kentucky,KY,195,Pike,4,21195
+21,Kentucky,KY,197,Powell,4,21197
+21,Kentucky,KY,199,Pulaski,4,21199
+21,Kentucky,KY,201,Robertson,4,21201
+21,Kentucky,KY,203,Rockcastle,4,21203
+21,Kentucky,KY,205,Rowan,4,21205
+21,Kentucky,KY,207,Russell,4,21207
+21,Kentucky,KY,209,Scott,4,21209
+21,Kentucky,KY,211,Shelby,4,21211
+21,Kentucky,KY,213,Simpson,4,21213
+21,Kentucky,KY,215,Spencer,4,21215
+21,Kentucky,KY,217,Taylor,4,21217
+21,Kentucky,KY,219,Todd,4,21219
+21,Kentucky,KY,221,Trigg,4,21221
+21,Kentucky,KY,223,Trimble,4,21223
+21,Kentucky,KY,225,Union,4,21225
+21,Kentucky,KY,227,Warren,4,21227
+21,Kentucky,KY,229,Washington,4,21229
+21,Kentucky,KY,231,Wayne,4,21231
+21,Kentucky,KY,233,Webster,4,21233
+21,Kentucky,KY,235,Whitley,4,21235
+21,Kentucky,KY,237,Wolfe,4,21237
+21,Kentucky,KY,239,Woodford,4,21239
+22,Louisiana,LA,1,Acadia,6,22001
+22,Louisiana,LA,3,Allen,6,22003
+22,Louisiana,LA,5,Ascension,6,22005
+22,Louisiana,LA,7,Assumption,6,22007
+22,Louisiana,LA,9,Avoyelles,6,22009
+22,Louisiana,LA,11,Beauregard,6,22011
+22,Louisiana,LA,13,Bienville,6,22013
+22,Louisiana,LA,15,Bossier,6,22015
+22,Louisiana,LA,17,Caddo,6,22017
+22,Louisiana,LA,19,Calcasieu,6,22019
+22,Louisiana,LA,21,Caldwell,6,22021
+22,Louisiana,LA,23,Cameron,6,22023
+22,Louisiana,LA,25,Catahoula,6,22025
+22,Louisiana,LA,27,Claiborne,6,22027
+22,Louisiana,LA,29,Concordia,6,22029
+22,Louisiana,LA,31,De Soto,6,22031
+22,Louisiana,LA,33,East Baton Rouge,6,22033
+22,Louisiana,LA,35,East Carroll,6,22035
+22,Louisiana,LA,37,East Feliciana,6,22037
+22,Louisiana,LA,39,Evangeline,6,22039
+22,Louisiana,LA,41,Franklin,6,22041
+22,Louisiana,LA,43,Grant,6,22043
+22,Louisiana,LA,45,Iberia,6,22045
+22,Louisiana,LA,47,Iberville,6,22047
+22,Louisiana,LA,49,Jackson,6,22049
+22,Louisiana,LA,51,Jefferson,6,22051
+22,Louisiana,LA,53,Jefferson Davis,6,22053
+22,Louisiana,LA,55,Lafayette,6,22055
+22,Louisiana,LA,57,Lafourche,6,22057
+22,Louisiana,LA,59,La Salle,6,22059
+22,Louisiana,LA,61,Lincoln,6,22061
+22,Louisiana,LA,63,Livingston,6,22063
+22,Louisiana,LA,65,Madison,6,22065
+22,Louisiana,LA,67,Morehouse,6,22067
+22,Louisiana,LA,69,Natchitoches,6,22069
+22,Louisiana,LA,71,Orleans,6,22071
+22,Louisiana,LA,73,Ouachita,6,22073
+22,Louisiana,LA,75,Plaquemines,6,22075
+22,Louisiana,LA,77,Pointe Coupee,6,22077
+22,Louisiana,LA,79,Rapides,6,22079
+22,Louisiana,LA,81,Red River,6,22081
+22,Louisiana,LA,83,Richland,6,22083
+22,Louisiana,LA,85,Sabine,6,22085
+22,Louisiana,LA,87,St. Bernard,6,22087
+22,Louisiana,LA,89,St. Charles,6,22089
+22,Louisiana,LA,91,St. Helena,6,22091
+22,Louisiana,LA,93,St. James,6,22093
+22,Louisiana,LA,95,St. John the Baptist,6,22095
+22,Louisiana,LA,97,St. Landry,6,22097
+22,Louisiana,LA,99,St. Martin,6,22099
+22,Louisiana,LA,101,St. Mary,6,22101
+22,Louisiana,LA,103,St. Tammany,6,22103
+22,Louisiana,LA,105,Tangipahoa,6,22105
+22,Louisiana,LA,107,Tensas,6,22107
+22,Louisiana,LA,109,Terrebonne,6,22109
+22,Louisiana,LA,111,Union,6,22111
+22,Louisiana,LA,113,Vermilion,6,22113
+22,Louisiana,LA,115,Vernon,6,22115
+22,Louisiana,LA,117,Washington,6,22117
+22,Louisiana,LA,119,Webster,6,22119
+22,Louisiana,LA,121,West Baton Rouge,6,22121
+22,Louisiana,LA,123,West Carroll,6,22123
+22,Louisiana,LA,125,West Feliciana,6,22125
+22,Louisiana,LA,127,Winn,6,22127
+23,Maine,ME,1,Androscoggin,1,23001
+23,Maine,ME,3,Aroostook,1,23003
+23,Maine,ME,5,Cumberland,1,23005
+23,Maine,ME,7,Franklin,1,23007
+23,Maine,ME,9,Hancock,1,23009
+23,Maine,ME,11,Kennebec,1,23011
+23,Maine,ME,13,Knox,1,23013
+23,Maine,ME,15,Lincoln,1,23015
+23,Maine,ME,17,Oxford,1,23017
+23,Maine,ME,19,Penobscot,1,23019
+23,Maine,ME,21,Piscataquis,1,23021
+23,Maine,ME,23,Sagadahoc,1,23023
+23,Maine,ME,25,Somerset,1,23025
+23,Maine,ME,27,Waldo,1,23027
+23,Maine,ME,29,Washington,1,23029
+23,Maine,ME,31,York,1,23031
+23,Maine,ME,901,MOBILE MONITORS,1,23901
+24,Maryland,MD,1,Allegany,3,24001
+24,Maryland,MD,3,Anne Arundel,3,24003
+24,Maryland,MD,5,Baltimore,3,24005
+24,Maryland,MD,9,Calvert,3,24009
+24,Maryland,MD,11,Caroline,3,24011
+24,Maryland,MD,13,Carroll,3,24013
+24,Maryland,MD,15,Cecil,3,24015
+24,Maryland,MD,17,Charles,3,24017
+24,Maryland,MD,19,Dorchester,3,24019
+24,Maryland,MD,21,Frederick,3,24021
+24,Maryland,MD,23,Garrett,3,24023
+24,Maryland,MD,25,Harford,3,24025
+24,Maryland,MD,27,Howard,3,24027
+24,Maryland,MD,29,Kent,3,24029
+24,Maryland,MD,31,Montgomery,3,24031
+24,Maryland,MD,33,Prince George's,3,24033
+24,Maryland,MD,35,Queen Anne's,3,24035
+24,Maryland,MD,37,St. Mary's,3,24037
+24,Maryland,MD,39,Somerset,3,24039
+24,Maryland,MD,41,Talbot,3,24041
+24,Maryland,MD,43,Washington,3,24043
+24,Maryland,MD,45,Wicomico,3,24045
+24,Maryland,MD,47,Worcester,3,24047
+24,Maryland,MD,510,Baltimore (City),3,24510
+25,Massachusetts,MA,1,Barnstable,1,25001
+25,Massachusetts,MA,3,Berkshire,1,25003
+25,Massachusetts,MA,5,Bristol,1,25005
+25,Massachusetts,MA,7,Dukes,1,25007
+25,Massachusetts,MA,9,Essex,1,25009
+25,Massachusetts,MA,11,Franklin,1,25011
+25,Massachusetts,MA,13,Hampden,1,25013
+25,Massachusetts,MA,15,Hampshire,1,25015
+25,Massachusetts,MA,17,Middlesex,1,25017
+25,Massachusetts,MA,19,Nantucket,1,25019
+25,Massachusetts,MA,21,Norfolk,1,25021
+25,Massachusetts,MA,23,Plymouth,1,25023
+25,Massachusetts,MA,25,Suffolk,1,25025
+25,Massachusetts,MA,27,Worcester,1,25027
+26,Michigan,MI,1,Alcona,5,26001
+26,Michigan,MI,3,Alger,5,26003
+26,Michigan,MI,5,Allegan,5,26005
+26,Michigan,MI,7,Alpena,5,26007
+26,Michigan,MI,9,Antrim,5,26009
+26,Michigan,MI,11,Arenac,5,26011
+26,Michigan,MI,13,Baraga,5,26013
+26,Michigan,MI,15,Barry,5,26015
+26,Michigan,MI,17,Bay,5,26017
+26,Michigan,MI,19,Benzie,5,26019
+26,Michigan,MI,21,Berrien,5,26021
+26,Michigan,MI,23,Branch,5,26023
+26,Michigan,MI,25,Calhoun,5,26025
+26,Michigan,MI,27,Cass,5,26027
+26,Michigan,MI,29,Charlevoix,5,26029
+26,Michigan,MI,31,Cheboygan,5,26031
+26,Michigan,MI,33,Chippewa,5,26033
+26,Michigan,MI,35,Clare,5,26035
+26,Michigan,MI,37,Clinton,5,26037
+26,Michigan,MI,39,Crawford,5,26039
+26,Michigan,MI,41,Delta,5,26041
+26,Michigan,MI,43,Dickinson,5,26043
+26,Michigan,MI,45,Eaton,5,26045
+26,Michigan,MI,47,Emmet,5,26047
+26,Michigan,MI,49,Genesee,5,26049
+26,Michigan,MI,51,Gladwin,5,26051
+26,Michigan,MI,53,Gogebic,5,26053
+26,Michigan,MI,55,Grand Traverse,5,26055
+26,Michigan,MI,57,Gratiot,5,26057
+26,Michigan,MI,59,Hillsdale,5,26059
+26,Michigan,MI,61,Houghton,5,26061
+26,Michigan,MI,63,Huron,5,26063
+26,Michigan,MI,65,Ingham,5,26065
+26,Michigan,MI,67,Ionia,5,26067
+26,Michigan,MI,69,Iosco,5,26069
+26,Michigan,MI,71,Iron,5,26071
+26,Michigan,MI,73,Isabella,5,26073
+26,Michigan,MI,75,Jackson,5,26075
+26,Michigan,MI,77,Kalamazoo,5,26077
+26,Michigan,MI,79,Kalkaska,5,26079
+26,Michigan,MI,81,Kent,5,26081
+26,Michigan,MI,83,Keweenaw,5,26083
+26,Michigan,MI,85,Lake,5,26085
+26,Michigan,MI,87,Lapeer,5,26087
+26,Michigan,MI,89,Leelanau,5,26089
+26,Michigan,MI,91,Lenawee,5,26091
+26,Michigan,MI,93,Livingston,5,26093
+26,Michigan,MI,95,Luce,5,26095
+26,Michigan,MI,97,Mackinac,5,26097
+26,Michigan,MI,99,Macomb,5,26099
+26,Michigan,MI,101,Manistee,5,26101
+26,Michigan,MI,103,Marquette,5,26103
+26,Michigan,MI,105,Mason,5,26105
+26,Michigan,MI,107,Mecosta,5,26107
+26,Michigan,MI,109,Menominee,5,26109
+26,Michigan,MI,111,Midland,5,26111
+26,Michigan,MI,113,Missaukee,5,26113
+26,Michigan,MI,115,Monroe,5,26115
+26,Michigan,MI,117,Montcalm,5,26117
+26,Michigan,MI,119,Montmorency,5,26119
+26,Michigan,MI,121,Muskegon,5,26121
+26,Michigan,MI,123,Newaygo,5,26123
+26,Michigan,MI,125,Oakland,5,26125
+26,Michigan,MI,127,Oceana,5,26127
+26,Michigan,MI,129,Ogemaw,5,26129
+26,Michigan,MI,131,Ontonagon,5,26131
+26,Michigan,MI,133,Osceola,5,26133
+26,Michigan,MI,135,Oscoda,5,26135
+26,Michigan,MI,137,Otsego,5,26137
+26,Michigan,MI,139,Ottawa,5,26139
+26,Michigan,MI,141,Presque Isle,5,26141
+26,Michigan,MI,143,Roscommon,5,26143
+26,Michigan,MI,145,Saginaw,5,26145
+26,Michigan,MI,147,St. Clair,5,26147
+26,Michigan,MI,149,St. Joseph,5,26149
+26,Michigan,MI,151,Sanilac,5,26151
+26,Michigan,MI,153,Schoolcraft,5,26153
+26,Michigan,MI,155,Shiawassee,5,26155
+26,Michigan,MI,157,Tuscola,5,26157
+26,Michigan,MI,159,Van Buren,5,26159
+26,Michigan,MI,161,Washtenaw,5,26161
+26,Michigan,MI,163,Wayne,5,26163
+26,Michigan,MI,165,Wexford,5,26165
+27,Minnesota,MN,1,Aitkin,5,27001
+27,Minnesota,MN,3,Anoka,5,27003
+27,Minnesota,MN,5,Becker,5,27005
+27,Minnesota,MN,7,Beltrami,5,27007
+27,Minnesota,MN,9,Benton,5,27009
+27,Minnesota,MN,11,Big Stone,5,27011
+27,Minnesota,MN,13,Blue Earth,5,27013
+27,Minnesota,MN,15,Brown,5,27015
+27,Minnesota,MN,17,Carlton,5,27017
+27,Minnesota,MN,19,Carver,5,27019
+27,Minnesota,MN,21,Cass,5,27021
+27,Minnesota,MN,23,Chippewa,5,27023
+27,Minnesota,MN,25,Chisago,5,27025
+27,Minnesota,MN,27,Clay,5,27027
+27,Minnesota,MN,29,Clearwater,5,27029
+27,Minnesota,MN,31,Cook,5,27031
+27,Minnesota,MN,33,Cottonwood,5,27033
+27,Minnesota,MN,35,Crow Wing,5,27035
+27,Minnesota,MN,37,Dakota,5,27037
+27,Minnesota,MN,39,Dodge,5,27039
+27,Minnesota,MN,41,Douglas,5,27041
+27,Minnesota,MN,43,Faribault,5,27043
+27,Minnesota,MN,45,Fillmore,5,27045
+27,Minnesota,MN,47,Freeborn,5,27047
+27,Minnesota,MN,49,Goodhue,5,27049
+27,Minnesota,MN,51,Grant,5,27051
+27,Minnesota,MN,53,Hennepin,5,27053
+27,Minnesota,MN,55,Houston,5,27055
+27,Minnesota,MN,57,Hubbard,5,27057
+27,Minnesota,MN,59,Isanti,5,27059
+27,Minnesota,MN,61,Itasca,5,27061
+27,Minnesota,MN,63,Jackson,5,27063
+27,Minnesota,MN,65,Kanabec,5,27065
+27,Minnesota,MN,67,Kandiyohi,5,27067
+27,Minnesota,MN,69,Kittson,5,27069
+27,Minnesota,MN,71,Koochiching,5,27071
+27,Minnesota,MN,73,Lac qui Parle,5,27073
+27,Minnesota,MN,75,Lake,5,27075
+27,Minnesota,MN,77,Lake of the Woods,5,27077
+27,Minnesota,MN,79,Le Sueur,5,27079
+27,Minnesota,MN,81,Lincoln,5,27081
+27,Minnesota,MN,83,Lyon,5,27083
+27,Minnesota,MN,85,McLeod,5,27085
+27,Minnesota,MN,87,Mahnomen,5,27087
+27,Minnesota,MN,89,Marshall,5,27089
+27,Minnesota,MN,91,Martin,5,27091
+27,Minnesota,MN,93,Meeker,5,27093
+27,Minnesota,MN,95,Mille Lacs,5,27095
+27,Minnesota,MN,97,Morrison,5,27097
+27,Minnesota,MN,99,Mower,5,27099
+27,Minnesota,MN,101,Murray,5,27101
+27,Minnesota,MN,103,Nicollet,5,27103
+27,Minnesota,MN,105,Nobles,5,27105
+27,Minnesota,MN,107,Norman,5,27107
+27,Minnesota,MN,109,Olmsted,5,27109
+27,Minnesota,MN,111,Otter Tail,5,27111
+27,Minnesota,MN,113,Pennington,5,27113
+27,Minnesota,MN,115,Pine,5,27115
+27,Minnesota,MN,117,Pipestone,5,27117
+27,Minnesota,MN,119,Polk,5,27119
+27,Minnesota,MN,121,Pope,5,27121
+27,Minnesota,MN,123,Ramsey,5,27123
+27,Minnesota,MN,125,Red Lake,5,27125
+27,Minnesota,MN,127,Redwood,5,27127
+27,Minnesota,MN,129,Renville,5,27129
+27,Minnesota,MN,131,Rice,5,27131
+27,Minnesota,MN,133,Rock,5,27133
+27,Minnesota,MN,135,Roseau,5,27135
+27,Minnesota,MN,137,Saint Louis,5,27137
+27,Minnesota,MN,139,Scott,5,27139
+27,Minnesota,MN,141,Sherburne,5,27141
+27,Minnesota,MN,143,Sibley,5,27143
+27,Minnesota,MN,145,Stearns,5,27145
+27,Minnesota,MN,147,Steele,5,27147
+27,Minnesota,MN,149,Stevens,5,27149
+27,Minnesota,MN,151,Swift,5,27151
+27,Minnesota,MN,153,Todd,5,27153
+27,Minnesota,MN,155,Traverse,5,27155
+27,Minnesota,MN,157,Wabasha,5,27157
+27,Minnesota,MN,159,Wadena,5,27159
+27,Minnesota,MN,161,Waseca,5,27161
+27,Minnesota,MN,163,Washington,5,27163
+27,Minnesota,MN,165,Watonwan,5,27165
+27,Minnesota,MN,167,Wilkin,5,27167
+27,Minnesota,MN,169,Winona,5,27169
+27,Minnesota,MN,171,Wright,5,27171
+27,Minnesota,MN,173,Yellow Medicine,5,27173
+28,Mississippi,MS,1,Adams,4,28001
+28,Mississippi,MS,3,Alcorn,4,28003
+28,Mississippi,MS,5,Amite,4,28005
+28,Mississippi,MS,7,Attala,4,28007
+28,Mississippi,MS,9,Benton,4,28009
+28,Mississippi,MS,11,Bolivar,4,28011
+28,Mississippi,MS,13,Calhoun,4,28013
+28,Mississippi,MS,15,Carroll,4,28015
+28,Mississippi,MS,17,Chickasaw,4,28017
+28,Mississippi,MS,19,Choctaw,4,28019
+28,Mississippi,MS,21,Claiborne,4,28021
+28,Mississippi,MS,23,Clarke,4,28023
+28,Mississippi,MS,25,Clay,4,28025
+28,Mississippi,MS,27,Coahoma,4,28027
+28,Mississippi,MS,29,Copiah,4,28029
+28,Mississippi,MS,31,Covington,4,28031
+28,Mississippi,MS,33,DeSoto,4,28033
+28,Mississippi,MS,35,Forrest,4,28035
+28,Mississippi,MS,37,Franklin,4,28037
+28,Mississippi,MS,39,George,4,28039
+28,Mississippi,MS,41,Greene,4,28041
+28,Mississippi,MS,43,Grenada,4,28043
+28,Mississippi,MS,45,Hancock,4,28045
+28,Mississippi,MS,47,Harrison,4,28047
+28,Mississippi,MS,49,Hinds,4,28049
+28,Mississippi,MS,51,Holmes,4,28051
+28,Mississippi,MS,53,Humphreys,4,28053
+28,Mississippi,MS,55,Issaquena,4,28055
+28,Mississippi,MS,57,Itawamba,4,28057
+28,Mississippi,MS,59,Jackson,4,28059
+28,Mississippi,MS,61,Jasper,4,28061
+28,Mississippi,MS,63,Jefferson,4,28063
+28,Mississippi,MS,65,Jefferson Davis,4,28065
+28,Mississippi,MS,67,Jones,4,28067
+28,Mississippi,MS,69,Kemper,4,28069
+28,Mississippi,MS,71,Lafayette,4,28071
+28,Mississippi,MS,73,Lamar,4,28073
+28,Mississippi,MS,75,Lauderdale,4,28075
+28,Mississippi,MS,77,Lawrence,4,28077
+28,Mississippi,MS,79,Leake,4,28079
+28,Mississippi,MS,81,Lee,4,28081
+28,Mississippi,MS,83,Leflore,4,28083
+28,Mississippi,MS,85,Lincoln,4,28085
+28,Mississippi,MS,87,Lowndes,4,28087
+28,Mississippi,MS,89,Madison,4,28089
+28,Mississippi,MS,91,Marion,4,28091
+28,Mississippi,MS,93,Marshall,4,28093
+28,Mississippi,MS,95,Monroe,4,28095
+28,Mississippi,MS,97,Montgomery,4,28097
+28,Mississippi,MS,99,Neshoba,4,28099
+28,Mississippi,MS,101,Newton,4,28101
+28,Mississippi,MS,103,Noxubee,4,28103
+28,Mississippi,MS,105,Oktibbeha,4,28105
+28,Mississippi,MS,107,Panola,4,28107
+28,Mississippi,MS,109,Pearl River,4,28109
+28,Mississippi,MS,111,Perry,4,28111
+28,Mississippi,MS,113,Pike,4,28113
+28,Mississippi,MS,115,Pontotoc,4,28115
+28,Mississippi,MS,117,Prentiss,4,28117
+28,Mississippi,MS,119,Quitman,4,28119
+28,Mississippi,MS,121,Rankin,4,28121
+28,Mississippi,MS,123,Scott,4,28123
+28,Mississippi,MS,125,Sharkey,4,28125
+28,Mississippi,MS,127,Simpson,4,28127
+28,Mississippi,MS,129,Smith,4,28129
+28,Mississippi,MS,131,Stone,4,28131
+28,Mississippi,MS,133,Sunflower,4,28133
+28,Mississippi,MS,135,Tallahatchie,4,28135
+28,Mississippi,MS,137,Tate,4,28137
+28,Mississippi,MS,139,Tippah,4,28139
+28,Mississippi,MS,141,Tishomingo,4,28141
+28,Mississippi,MS,143,Tunica,4,28143
+28,Mississippi,MS,145,Union,4,28145
+28,Mississippi,MS,147,Walthall,4,28147
+28,Mississippi,MS,149,Warren,4,28149
+28,Mississippi,MS,151,Washington,4,28151
+28,Mississippi,MS,153,Wayne,4,28153
+28,Mississippi,MS,155,Webster,4,28155
+28,Mississippi,MS,157,Wilkinson,4,28157
+28,Mississippi,MS,159,Winston,4,28159
+28,Mississippi,MS,161,Yalobusha,4,28161
+28,Mississippi,MS,163,Yazoo,4,28163
+29,Missouri,MO,1,Adair,7,29001
+29,Missouri,MO,3,Andrew,7,29003
+29,Missouri,MO,5,Atchison,7,29005
+29,Missouri,MO,7,Audrain,7,29007
+29,Missouri,MO,9,Barry,7,29009
+29,Missouri,MO,11,Barton,7,29011
+29,Missouri,MO,13,Bates,7,29013
+29,Missouri,MO,15,Benton,7,29015
+29,Missouri,MO,17,Bollinger,7,29017
+29,Missouri,MO,19,Boone,7,29019
+29,Missouri,MO,21,Buchanan,7,29021
+29,Missouri,MO,23,Butler,7,29023
+29,Missouri,MO,25,Caldwell,7,29025
+29,Missouri,MO,27,Callaway,7,29027
+29,Missouri,MO,29,Camden,7,29029
+29,Missouri,MO,31,Cape Girardeau,7,29031
+29,Missouri,MO,33,Carroll,7,29033
+29,Missouri,MO,35,Carter,7,29035
+29,Missouri,MO,37,Cass,7,29037
+29,Missouri,MO,39,Cedar,7,29039
+29,Missouri,MO,41,Chariton,7,29041
+29,Missouri,MO,43,Christian,7,29043
+29,Missouri,MO,45,Clark,7,29045
+29,Missouri,MO,47,Clay,7,29047
+29,Missouri,MO,49,Clinton,7,29049
+29,Missouri,MO,51,Cole,7,29051
+29,Missouri,MO,53,Cooper,7,29053
+29,Missouri,MO,55,Crawford,7,29055
+29,Missouri,MO,57,Dade,7,29057
+29,Missouri,MO,59,Dallas,7,29059
+29,Missouri,MO,61,Daviess,7,29061
+29,Missouri,MO,63,DeKalb,7,29063
+29,Missouri,MO,65,Dent,7,29065
+29,Missouri,MO,67,Douglas,7,29067
+29,Missouri,MO,69,Dunklin,7,29069
+29,Missouri,MO,71,Franklin,7,29071
+29,Missouri,MO,73,Gasconade,7,29073
+29,Missouri,MO,75,Gentry,7,29075
+29,Missouri,MO,77,Greene,7,29077
+29,Missouri,MO,79,Grundy,7,29079
+29,Missouri,MO,81,Harrison,7,29081
+29,Missouri,MO,83,Henry,7,29083
+29,Missouri,MO,85,Hickory,7,29085
+29,Missouri,MO,87,Holt,7,29087
+29,Missouri,MO,89,Howard,7,29089
+29,Missouri,MO,91,Howell,7,29091
+29,Missouri,MO,93,Iron,7,29093
+29,Missouri,MO,95,Jackson,7,29095
+29,Missouri,MO,97,Jasper,7,29097
+29,Missouri,MO,99,Jefferson,7,29099
+29,Missouri,MO,101,Johnson,7,29101
+29,Missouri,MO,103,Knox,7,29103
+29,Missouri,MO,105,Laclede,7,29105
+29,Missouri,MO,107,Lafayette,7,29107
+29,Missouri,MO,109,Lawrence,7,29109
+29,Missouri,MO,111,Lewis,7,29111
+29,Missouri,MO,113,Lincoln,7,29113
+29,Missouri,MO,115,Linn,7,29115
+29,Missouri,MO,117,Livingston,7,29117
+29,Missouri,MO,119,McDonald,7,29119
+29,Missouri,MO,121,Macon,7,29121
+29,Missouri,MO,123,Madison,7,29123
+29,Missouri,MO,125,Maries,7,29125
+29,Missouri,MO,127,Marion,7,29127
+29,Missouri,MO,129,Mercer,7,29129
+29,Missouri,MO,131,Miller,7,29131
+29,Missouri,MO,133,Mississippi,7,29133
+29,Missouri,MO,135,Moniteau,7,29135
+29,Missouri,MO,137,Monroe,7,29137
+29,Missouri,MO,139,Montgomery,7,29139
+29,Missouri,MO,141,Morgan,7,29141
+29,Missouri,MO,143,New Madrid,7,29143
+29,Missouri,MO,145,Newton,7,29145
+29,Missouri,MO,147,Nodaway,7,29147
+29,Missouri,MO,149,Oregon,7,29149
+29,Missouri,MO,151,Osage,7,29151
+29,Missouri,MO,153,Ozark,7,29153
+29,Missouri,MO,155,Pemiscot,7,29155
+29,Missouri,MO,157,Perry,7,29157
+29,Missouri,MO,159,Pettis,7,29159
+29,Missouri,MO,161,Phelps,7,29161
+29,Missouri,MO,163,Pike,7,29163
+29,Missouri,MO,165,Platte,7,29165
+29,Missouri,MO,167,Polk,7,29167
+29,Missouri,MO,169,Pulaski,7,29169
+29,Missouri,MO,171,Putnam,7,29171
+29,Missouri,MO,173,Ralls,7,29173
+29,Missouri,MO,175,Randolph,7,29175
+29,Missouri,MO,177,Ray,7,29177
+29,Missouri,MO,179,Reynolds,7,29179
+29,Missouri,MO,181,Ripley,7,29181
+29,Missouri,MO,183,Saint Charles,7,29183
+29,Missouri,MO,185,Saint Clair,7,29185
+29,Missouri,MO,186,Sainte Genevieve,7,29186
+29,Missouri,MO,187,Saint Francois,7,29187
+29,Missouri,MO,189,Saint Louis,7,29189
+29,Missouri,MO,195,Saline,7,29195
+29,Missouri,MO,197,Schuyler,7,29197
+29,Missouri,MO,199,Scotland,7,29199
+29,Missouri,MO,201,Scott,7,29201
+29,Missouri,MO,203,Shannon,7,29203
+29,Missouri,MO,205,Shelby,7,29205
+29,Missouri,MO,207,Stoddard,7,29207
+29,Missouri,MO,209,Stone,7,29209
+29,Missouri,MO,211,Sullivan,7,29211
+29,Missouri,MO,213,Taney,7,29213
+29,Missouri,MO,215,Texas,7,29215
+29,Missouri,MO,217,Vernon,7,29217
+29,Missouri,MO,219,Warren,7,29219
+29,Missouri,MO,221,Washington,7,29221
+29,Missouri,MO,223,Wayne,7,29223
+29,Missouri,MO,225,Webster,7,29225
+29,Missouri,MO,227,Worth,7,29227
+29,Missouri,MO,229,Wright,7,29229
+30,Montana,MT,1,Beaverhead,8,30001
+30,Montana,MT,3,Big Horn,8,30003
+30,Montana,MT,5,Blaine,8,30005
+30,Montana,MT,7,Broadwater,8,30007
+30,Montana,MT,9,Carbon,8,30009
+30,Montana,MT,11,Carter,8,30011
+30,Montana,MT,13,Cascade,8,30013
+30,Montana,MT,15,Chouteau,8,30015
+30,Montana,MT,17,Custer,8,30017
+30,Montana,MT,19,Daniels,8,30019
+30,Montana,MT,21,Dawson,8,30021
+30,Montana,MT,23,Deer Lodge,8,30023
+30,Montana,MT,25,Fallon,8,30025
+30,Montana,MT,27,Fergus,8,30027
+30,Montana,MT,29,Flathead,8,30029
+30,Montana,MT,31,Gallatin,8,30031
+30,Montana,MT,33,Garfield,8,30033
+30,Montana,MT,35,Glacier,8,30035
+30,Montana,MT,37,Golden Valley,8,30037
+30,Montana,MT,39,Granite,8,30039
+30,Montana,MT,41,Hill,8,30041
+30,Montana,MT,43,Jefferson,8,30043
+30,Montana,MT,45,Judith Basin,8,30045
+30,Montana,MT,47,Lake,8,30047
+30,Montana,MT,49,Lewis and Clark,8,30049
+30,Montana,MT,51,Liberty,8,30051
+30,Montana,MT,53,Lincoln,8,30053
+30,Montana,MT,55,McCone,8,30055
+30,Montana,MT,57,Madison,8,30057
+30,Montana,MT,59,Meagher,8,30059
+30,Montana,MT,61,Mineral,8,30061
+30,Montana,MT,63,Missoula,8,30063
+30,Montana,MT,65,Musselshell,8,30065
+30,Montana,MT,67,Park,8,30067
+30,Montana,MT,69,Petroleum,8,30069
+30,Montana,MT,71,Phillips,8,30071
+30,Montana,MT,73,Pondera,8,30073
+30,Montana,MT,75,Powder River,8,30075
+30,Montana,MT,77,Powell,8,30077
+30,Montana,MT,79,Prairie,8,30079
+30,Montana,MT,81,Ravalli,8,30081
+30,Montana,MT,83,Richland,8,30083
+30,Montana,MT,85,Roosevelt,8,30085
+30,Montana,MT,87,Rosebud,8,30087
+30,Montana,MT,89,Sanders,8,30089
+30,Montana,MT,91,Sheridan,8,30091
+30,Montana,MT,93,Silver Bow,8,30093
+30,Montana,MT,95,Stillwater,8,30095
+30,Montana,MT,97,Sweet Grass,8,30097
+30,Montana,MT,99,Teton,8,30099
+30,Montana,MT,101,Toole,8,30101
+30,Montana,MT,103,Treasure,8,30103
+30,Montana,MT,105,Valley,8,30105
+30,Montana,MT,107,Wheatland,8,30107
+30,Montana,MT,109,Wibaux,8,30109
+30,Montana,MT,111,Yellowstone,8,30111
+31,Nebraska,NE,1,Adams,7,31001
+31,Nebraska,NE,3,Antelope,7,31003
+31,Nebraska,NE,5,Arthur,7,31005
+31,Nebraska,NE,7,Banner,7,31007
+31,Nebraska,NE,9,Blaine,7,31009
+31,Nebraska,NE,11,Boone,7,31011
+31,Nebraska,NE,13,Box Butte,7,31013
+31,Nebraska,NE,15,Boyd,7,31015
+31,Nebraska,NE,17,Brown,7,31017
+31,Nebraska,NE,19,Buffalo,7,31019
+31,Nebraska,NE,21,Burt,7,31021
+31,Nebraska,NE,23,Butler,7,31023
+31,Nebraska,NE,25,Cass,7,31025
+31,Nebraska,NE,27,Cedar,7,31027
+31,Nebraska,NE,29,Chase,7,31029
+31,Nebraska,NE,31,Cherry,7,31031
+31,Nebraska,NE,33,Cheyenne,7,31033
+31,Nebraska,NE,35,Clay,7,31035
+31,Nebraska,NE,37,Colfax,7,31037
+31,Nebraska,NE,39,Cuming,7,31039
+31,Nebraska,NE,41,Custer,7,31041
+31,Nebraska,NE,43,Dakota,7,31043
+31,Nebraska,NE,45,Dawes,7,31045
+31,Nebraska,NE,47,Dawson,7,31047
+31,Nebraska,NE,49,Deuel,7,31049
+31,Nebraska,NE,51,Dixon,7,31051
+31,Nebraska,NE,53,Dodge,7,31053
+31,Nebraska,NE,55,Douglas,7,31055
+31,Nebraska,NE,57,Dundy,7,31057
+31,Nebraska,NE,59,Fillmore,7,31059
+31,Nebraska,NE,61,Franklin,7,31061
+31,Nebraska,NE,63,Frontier,7,31063
+31,Nebraska,NE,65,Furnas,7,31065
+31,Nebraska,NE,67,Gage,7,31067
+31,Nebraska,NE,69,Garden,7,31069
+31,Nebraska,NE,71,Garfield,7,31071
+31,Nebraska,NE,73,Gosper,7,31073
+31,Nebraska,NE,75,Grant,7,31075
+31,Nebraska,NE,77,Greeley,7,31077
+31,Nebraska,NE,79,Hall,7,31079
+31,Nebraska,NE,81,Hamilton,7,31081
+31,Nebraska,NE,83,Harlan,7,31083
+31,Nebraska,NE,85,Hayes,7,31085
+31,Nebraska,NE,87,Hitchcock,7,31087
+31,Nebraska,NE,89,Holt,7,31089
+31,Nebraska,NE,91,Hooker,7,31091
+31,Nebraska,NE,93,Howard,7,31093
+31,Nebraska,NE,95,Jefferson,7,31095
+31,Nebraska,NE,97,Johnson,7,31097
+31,Nebraska,NE,99,Kearney,7,31099
+31,Nebraska,NE,101,Keith,7,31101
+31,Nebraska,NE,103,Keya Paha,7,31103
+31,Nebraska,NE,105,Kimball,7,31105
+31,Nebraska,NE,107,Knox,7,31107
+31,Nebraska,NE,109,Lancaster,7,31109
+31,Nebraska,NE,111,Lincoln,7,31111
+31,Nebraska,NE,113,Logan,7,31113
+31,Nebraska,NE,115,Loup,7,31115
+31,Nebraska,NE,117,McPherson,7,31117
+31,Nebraska,NE,119,Madison,7,31119
+31,Nebraska,NE,121,Merrick,7,31121
+31,Nebraska,NE,123,Morrill,7,31123
+31,Nebraska,NE,125,Nance,7,31125
+31,Nebraska,NE,127,Nemaha,7,31127
+31,Nebraska,NE,129,Nuckolls,7,31129
+31,Nebraska,NE,131,Otoe,7,31131
+31,Nebraska,NE,133,Pawnee,7,31133
+31,Nebraska,NE,135,Perkins,7,31135
+31,Nebraska,NE,137,Phelps,7,31137
+31,Nebraska,NE,139,Pierce,7,31139
+31,Nebraska,NE,141,Platte,7,31141
+31,Nebraska,NE,143,Polk,7,31143
+31,Nebraska,NE,145,Red Willow,7,31145
+31,Nebraska,NE,147,Richardson,7,31147
+31,Nebraska,NE,149,Rock,7,31149
+31,Nebraska,NE,151,Saline,7,31151
+31,Nebraska,NE,153,Sarpy,7,31153
+31,Nebraska,NE,155,Saunders,7,31155
+31,Nebraska,NE,157,Scotts Bluff,7,31157
+31,Nebraska,NE,159,Seward,7,31159
+31,Nebraska,NE,161,Sheridan,7,31161
+31,Nebraska,NE,163,Sherman,7,31163
+31,Nebraska,NE,165,Sioux,7,31165
+31,Nebraska,NE,167,Stanton,7,31167
+31,Nebraska,NE,169,Thayer,7,31169
+31,Nebraska,NE,171,Thomas,7,31171
+31,Nebraska,NE,173,Thurston,7,31173
+31,Nebraska,NE,175,Valley,7,31175
+31,Nebraska,NE,177,Washington,7,31177
+31,Nebraska,NE,179,Wayne,7,31179
+31,Nebraska,NE,181,Webster,7,31181
+31,Nebraska,NE,183,Wheeler,7,31183
+31,Nebraska,NE,185,York,7,31185
+32,Nevada,NV,1,Churchill,9,32001
+32,Nevada,NV,3,Clark,9,32003
+32,Nevada,NV,5,Douglas,9,32005
+32,Nevada,NV,7,Elko,9,32007
+32,Nevada,NV,9,Esmeralda,9,32009
+32,Nevada,NV,11,Eureka,9,32011
+32,Nevada,NV,13,Humboldt,9,32013
+32,Nevada,NV,15,Lander,9,32015
+32,Nevada,NV,17,Lincoln,9,32017
+32,Nevada,NV,19,Lyon,9,32019
+32,Nevada,NV,21,Mineral,9,32021
+32,Nevada,NV,23,Nye,9,32023
+32,Nevada,NV,27,Pershing,9,32027
+32,Nevada,NV,29,Storey,9,32029
+32,Nevada,NV,31,Washoe,9,32031
+32,Nevada,NV,33,White Pine,9,32033
+32,Nevada,NV,510,Carson City,9,32510
+32,Nevada,NV,902,Clark County,9,32902
+33,New Hampshire,NH,1,Belknap,1,33001
+33,New Hampshire,NH,3,Carroll,1,33003
+33,New Hampshire,NH,5,Cheshire,1,33005
+33,New Hampshire,NH,7,Coos,1,33007
+33,New Hampshire,NH,9,Grafton,1,33009
+33,New Hampshire,NH,11,Hillsborough,1,33011
+33,New Hampshire,NH,13,Merrimack,1,33013
+33,New Hampshire,NH,15,Rockingham,1,33015
+33,New Hampshire,NH,17,Strafford,1,33017
+33,New Hampshire,NH,19,Sullivan,1,33019
+34,New Jersey,NJ,1,Atlantic,2,34001
+34,New Jersey,NJ,3,Bergen,2,34003
+34,New Jersey,NJ,5,Burlington,2,34005
+34,New Jersey,NJ,7,Camden,2,34007
+34,New Jersey,NJ,9,Cape May,2,34009
+34,New Jersey,NJ,11,Cumberland,2,34011
+34,New Jersey,NJ,13,Essex,2,34013
+34,New Jersey,NJ,15,Gloucester,2,34015
+34,New Jersey,NJ,17,Hudson,2,34017
+34,New Jersey,NJ,19,Hunterdon,2,34019
+34,New Jersey,NJ,21,Mercer,2,34021
+34,New Jersey,NJ,23,Middlesex,2,34023
+34,New Jersey,NJ,25,Monmouth,2,34025
+34,New Jersey,NJ,27,Morris,2,34027
+34,New Jersey,NJ,29,Ocean,2,34029
+34,New Jersey,NJ,31,Passaic,2,34031
+34,New Jersey,NJ,33,Salem,2,34033
+34,New Jersey,NJ,35,Somerset,2,34035
+34,New Jersey,NJ,37,Sussex,2,34037
+34,New Jersey,NJ,39,Union,2,34039
+34,New Jersey,NJ,41,Warren,2,34041
+35,New Mexico,NM,1,Bernalillo,6,35001
+35,New Mexico,NM,3,Catron,6,35003
+35,New Mexico,NM,5,Chaves,6,35005
+35,New Mexico,NM,6,Cibola,6,35006
+35,New Mexico,NM,7,Colfax,6,35007
+35,New Mexico,NM,9,Curry,6,35009
+35,New Mexico,NM,11,De Baca,6,35011
+35,New Mexico,NM,13,Dona Ana,6,35013
+35,New Mexico,NM,15,Eddy,6,35015
+35,New Mexico,NM,17,Grant,6,35017
+35,New Mexico,NM,19,Guadalupe,6,35019
+35,New Mexico,NM,21,Harding,6,35021
+35,New Mexico,NM,23,Hidalgo,6,35023
+35,New Mexico,NM,25,Lea,6,35025
+35,New Mexico,NM,27,Lincoln,6,35027
+35,New Mexico,NM,28,Los Alamos,6,35028
+35,New Mexico,NM,29,Luna,6,35029
+35,New Mexico,NM,31,McKinley,6,35031
+35,New Mexico,NM,33,Mora,6,35033
+35,New Mexico,NM,35,Otero,6,35035
+35,New Mexico,NM,37,Quay,6,35037
+35,New Mexico,NM,39,Rio Arriba,6,35039
+35,New Mexico,NM,41,Roosevelt,6,35041
+35,New Mexico,NM,43,Sandoval,6,35043
+35,New Mexico,NM,45,San Juan,6,35045
+35,New Mexico,NM,47,San Miguel,6,35047
+35,New Mexico,NM,49,Santa Fe,6,35049
+35,New Mexico,NM,51,Sierra,6,35051
+35,New Mexico,NM,53,Socorro,6,35053
+35,New Mexico,NM,55,Taos,6,35055
+35,New Mexico,NM,57,Torrance,6,35057
+35,New Mexico,NM,59,Union,6,35059
+35,New Mexico,NM,61,Valencia,6,35061
+36,New York,NY,1,Albany,2,36001
+36,New York,NY,3,Allegany,2,36003
+36,New York,NY,5,Bronx,2,36005
+36,New York,NY,7,Broome,2,36007
+36,New York,NY,9,Cattaraugus,2,36009
+36,New York,NY,11,Cayuga,2,36011
+36,New York,NY,13,Chautauqua,2,36013
+36,New York,NY,15,Chemung,2,36015
+36,New York,NY,17,Chenango,2,36017
+36,New York,NY,19,Clinton,2,36019
+36,New York,NY,21,Columbia,2,36021
+36,New York,NY,23,Cortland,2,36023
+36,New York,NY,25,Delaware,2,36025
+36,New York,NY,27,Dutchess,2,36027
+36,New York,NY,29,Erie,2,36029
+36,New York,NY,31,Essex,2,36031
+36,New York,NY,33,Franklin,2,36033
+36,New York,NY,35,Fulton,2,36035
+36,New York,NY,37,Genesee,2,36037
+36,New York,NY,39,Greene,2,36039
+36,New York,NY,41,Hamilton,2,36041
+36,New York,NY,43,Herkimer,2,36043
+36,New York,NY,45,Jefferson,2,36045
+36,New York,NY,47,Kings,2,36047
+36,New York,NY,49,Lewis,2,36049
+36,New York,NY,51,Livingston,2,36051
+36,New York,NY,53,Madison,2,36053
+36,New York,NY,55,Monroe,2,36055
+36,New York,NY,57,Montgomery,2,36057
+36,New York,NY,59,Nassau,2,36059
+36,New York,NY,61,New York,2,36061
+36,New York,NY,63,Niagara,2,36063
+36,New York,NY,65,Oneida,2,36065
+36,New York,NY,67,Onondaga,2,36067
+36,New York,NY,69,Ontario,2,36069
+36,New York,NY,71,Orange,2,36071
+36,New York,NY,73,Orleans,2,36073
+36,New York,NY,75,Oswego,2,36075
+36,New York,NY,77,Otsego,2,36077
+36,New York,NY,79,Putnam,2,36079
+36,New York,NY,81,Queens,2,36081
+36,New York,NY,83,Rensselaer,2,36083
+36,New York,NY,85,Richmond,2,36085
+36,New York,NY,87,Rockland,2,36087
+36,New York,NY,89,St. Lawrence,2,36089
+36,New York,NY,91,Saratoga,2,36091
+36,New York,NY,93,Schenectady,2,36093
+36,New York,NY,95,Schoharie,2,36095
+36,New York,NY,97,Schuyler,2,36097
+36,New York,NY,99,Seneca,2,36099
+36,New York,NY,101,Steuben,2,36101
+36,New York,NY,103,Suffolk,2,36103
+36,New York,NY,105,Sullivan,2,36105
+36,New York,NY,107,Tioga,2,36107
+36,New York,NY,109,Tompkins,2,36109
+36,New York,NY,111,Ulster,2,36111
+36,New York,NY,113,Warren,2,36113
+36,New York,NY,115,Washington,2,36115
+36,New York,NY,117,Wayne,2,36117
+36,New York,NY,119,Westchester,2,36119
+36,New York,NY,121,Wyoming,2,36121
+36,New York,NY,123,Yates,2,36123
+37,North Carolina,NC,1,Alamance,4,37001
+37,North Carolina,NC,3,Alexander,4,37003
+37,North Carolina,NC,5,Alleghany,4,37005
+37,North Carolina,NC,7,Anson,4,37007
+37,North Carolina,NC,9,Ashe,4,37009
+37,North Carolina,NC,11,Avery,4,37011
+37,North Carolina,NC,13,Beaufort,4,37013
+37,North Carolina,NC,15,Bertie,4,37015
+37,North Carolina,NC,17,Bladen,4,37017
+37,North Carolina,NC,19,Brunswick,4,37019
+37,North Carolina,NC,21,Buncombe,4,37021
+37,North Carolina,NC,23,Burke,4,37023
+37,North Carolina,NC,25,Cabarrus,4,37025
+37,North Carolina,NC,27,Caldwell,4,37027
+37,North Carolina,NC,29,Camden,4,37029
+37,North Carolina,NC,31,Carteret,4,37031
+37,North Carolina,NC,33,Caswell,4,37033
+37,North Carolina,NC,35,Catawba,4,37035
+37,North Carolina,NC,37,Chatham,4,37037
+37,North Carolina,NC,39,Cherokee,4,37039
+37,North Carolina,NC,41,Chowan,4,37041
+37,North Carolina,NC,43,Clay,4,37043
+37,North Carolina,NC,45,Cleveland,4,37045
+37,North Carolina,NC,47,Columbus,4,37047
+37,North Carolina,NC,49,Craven,4,37049
+37,North Carolina,NC,51,Cumberland,4,37051
+37,North Carolina,NC,53,Currituck,4,37053
+37,North Carolina,NC,55,Dare,4,37055
+37,North Carolina,NC,57,Davidson,4,37057
+37,North Carolina,NC,59,Davie,4,37059
+37,North Carolina,NC,61,Duplin,4,37061
+37,North Carolina,NC,63,Durham,4,37063
+37,North Carolina,NC,65,Edgecombe,4,37065
+37,North Carolina,NC,67,Forsyth,4,37067
+37,North Carolina,NC,69,Franklin,4,37069
+37,North Carolina,NC,71,Gaston,4,37071
+37,North Carolina,NC,73,Gates,4,37073
+37,North Carolina,NC,75,Graham,4,37075
+37,North Carolina,NC,77,Granville,4,37077
+37,North Carolina,NC,79,Greene,4,37079
+37,North Carolina,NC,81,Guilford,4,37081
+37,North Carolina,NC,83,Halifax,4,37083
+37,North Carolina,NC,85,Harnett,4,37085
+37,North Carolina,NC,87,Haywood,4,37087
+37,North Carolina,NC,89,Henderson,4,37089
+37,North Carolina,NC,91,Hertford,4,37091
+37,North Carolina,NC,93,Hoke,4,37093
+37,North Carolina,NC,95,Hyde,4,37095
+37,North Carolina,NC,97,Iredell,4,37097
+37,North Carolina,NC,99,Jackson,4,37099
+37,North Carolina,NC,101,Johnston,4,37101
+37,North Carolina,NC,103,Jones,4,37103
+37,North Carolina,NC,105,Lee,4,37105
+37,North Carolina,NC,107,Lenoir,4,37107
+37,North Carolina,NC,109,Lincoln,4,37109
+37,North Carolina,NC,111,McDowell,4,37111
+37,North Carolina,NC,113,Macon,4,37113
+37,North Carolina,NC,115,Madison,4,37115
+37,North Carolina,NC,117,Martin,4,37117
+37,North Carolina,NC,119,Mecklenburg,4,37119
+37,North Carolina,NC,121,Mitchell,4,37121
+37,North Carolina,NC,123,Montgomery,4,37123
+37,North Carolina,NC,125,Moore,4,37125
+37,North Carolina,NC,127,Nash,4,37127
+37,North Carolina,NC,129,New Hanover,4,37129
+37,North Carolina,NC,131,Northampton,4,37131
+37,North Carolina,NC,133,Onslow,4,37133
+37,North Carolina,NC,135,Orange,4,37135
+37,North Carolina,NC,137,Pamlico,4,37137
+37,North Carolina,NC,139,Pasquotank,4,37139
+37,North Carolina,NC,141,Pender,4,37141
+37,North Carolina,NC,143,Perquimans,4,37143
+37,North Carolina,NC,145,Person,4,37145
+37,North Carolina,NC,147,Pitt,4,37147
+37,North Carolina,NC,149,Polk,4,37149
+37,North Carolina,NC,151,Randolph,4,37151
+37,North Carolina,NC,153,Richmond,4,37153
+37,North Carolina,NC,155,Robeson,4,37155
+37,North Carolina,NC,157,Rockingham,4,37157
+37,North Carolina,NC,159,Rowan,4,37159
+37,North Carolina,NC,161,Rutherford,4,37161
+37,North Carolina,NC,163,Sampson,4,37163
+37,North Carolina,NC,165,Scotland,4,37165
+37,North Carolina,NC,167,Stanly,4,37167
+37,North Carolina,NC,169,Stokes,4,37169
+37,North Carolina,NC,171,Surry,4,37171
+37,North Carolina,NC,173,Swain,4,37173
+37,North Carolina,NC,175,Transylvania,4,37175
+37,North Carolina,NC,177,Tyrrell,4,37177
+37,North Carolina,NC,179,Union,4,37179
+37,North Carolina,NC,181,Vance,4,37181
+37,North Carolina,NC,183,Wake,4,37183
+37,North Carolina,NC,185,Warren,4,37185
+37,North Carolina,NC,187,Washington,4,37187
+37,North Carolina,NC,189,Watauga,4,37189
+37,North Carolina,NC,191,Wayne,4,37191
+37,North Carolina,NC,193,Wilkes,4,37193
+37,North Carolina,NC,195,Wilson,4,37195
+37,North Carolina,NC,197,Yadkin,4,37197
+37,North Carolina,NC,199,Yancey,4,37199
+38,North Dakota,ND,1,Adams,8,38001
+38,North Dakota,ND,3,Barnes,8,38003
+38,North Dakota,ND,5,Benson,8,38005
+38,North Dakota,ND,7,Billings,8,38007
+38,North Dakota,ND,9,Bottineau,8,38009
+38,North Dakota,ND,11,Bowman,8,38011
+38,North Dakota,ND,13,Burke,8,38013
+38,North Dakota,ND,15,Burleigh,8,38015
+38,North Dakota,ND,17,Cass,8,38017
+38,North Dakota,ND,19,Cavalier,8,38019
+38,North Dakota,ND,21,Dickey,8,38021
+38,North Dakota,ND,23,Divide,8,38023
+38,North Dakota,ND,25,Dunn,8,38025
+38,North Dakota,ND,27,Eddy,8,38027
+38,North Dakota,ND,29,Emmons,8,38029
+38,North Dakota,ND,31,Foster,8,38031
+38,North Dakota,ND,33,Golden Valley,8,38033
+38,North Dakota,ND,35,Grand Forks,8,38035
+38,North Dakota,ND,37,Grant,8,38037
+38,North Dakota,ND,39,Griggs,8,38039
+38,North Dakota,ND,41,Hettinger,8,38041
+38,North Dakota,ND,43,Kidder,8,38043
+38,North Dakota,ND,45,LaMoure,8,38045
+38,North Dakota,ND,47,Logan,8,38047
+38,North Dakota,ND,49,McHenry,8,38049
+38,North Dakota,ND,51,McIntosh,8,38051
+38,North Dakota,ND,53,McKenzie,8,38053
+38,North Dakota,ND,55,McLean,8,38055
+38,North Dakota,ND,57,Mercer,8,38057
+38,North Dakota,ND,59,Morton,8,38059
+38,North Dakota,ND,61,Mountrail,8,38061
+38,North Dakota,ND,63,Nelson,8,38063
+38,North Dakota,ND,65,Oliver,8,38065
+38,North Dakota,ND,67,Pembina,8,38067
+38,North Dakota,ND,69,Pierce,8,38069
+38,North Dakota,ND,71,Ramsey,8,38071
+38,North Dakota,ND,73,Ransom,8,38073
+38,North Dakota,ND,75,Renville,8,38075
+38,North Dakota,ND,77,Richland,8,38077
+38,North Dakota,ND,79,Rolette,8,38079
+38,North Dakota,ND,81,Sargent,8,38081
+38,North Dakota,ND,83,Sheridan,8,38083
+38,North Dakota,ND,85,Sioux,8,38085
+38,North Dakota,ND,87,Slope,8,38087
+38,North Dakota,ND,89,Stark,8,38089
+38,North Dakota,ND,91,Steele,8,38091
+38,North Dakota,ND,93,Stutsman,8,38093
+38,North Dakota,ND,95,Towner,8,38095
+38,North Dakota,ND,97,Traill,8,38097
+38,North Dakota,ND,99,Walsh,8,38099
+38,North Dakota,ND,101,Ward,8,38101
+38,North Dakota,ND,103,Wells,8,38103
+38,North Dakota,ND,105,Williams,8,38105
+39,Ohio,OH,1,Adams,5,39001
+39,Ohio,OH,3,Allen,5,39003
+39,Ohio,OH,5,Ashland,5,39005
+39,Ohio,OH,7,Ashtabula,5,39007
+39,Ohio,OH,9,Athens,5,39009
+39,Ohio,OH,11,Auglaize,5,39011
+39,Ohio,OH,13,Belmont,5,39013
+39,Ohio,OH,15,Brown,5,39015
+39,Ohio,OH,17,Butler,5,39017
+39,Ohio,OH,19,Carroll,5,39019
+39,Ohio,OH,21,Champaign,5,39021
+39,Ohio,OH,23,Clark,5,39023
+39,Ohio,OH,25,Clermont,5,39025
+39,Ohio,OH,27,Clinton,5,39027
+39,Ohio,OH,29,Columbiana,5,39029
+39,Ohio,OH,31,Coshocton,5,39031
+39,Ohio,OH,33,Crawford,5,39033
+39,Ohio,OH,35,Cuyahoga,5,39035
+39,Ohio,OH,37,Darke,5,39037
+39,Ohio,OH,39,Defiance,5,39039
+39,Ohio,OH,41,Delaware,5,39041
+39,Ohio,OH,43,Erie,5,39043
+39,Ohio,OH,45,Fairfield,5,39045
+39,Ohio,OH,47,Fayette,5,39047
+39,Ohio,OH,49,Franklin,5,39049
+39,Ohio,OH,51,Fulton,5,39051
+39,Ohio,OH,53,Gallia,5,39053
+39,Ohio,OH,55,Geauga,5,39055
+39,Ohio,OH,57,Greene,5,39057
+39,Ohio,OH,59,Guernsey,5,39059
+39,Ohio,OH,61,Hamilton,5,39061
+39,Ohio,OH,63,Hancock,5,39063
+39,Ohio,OH,65,Hardin,5,39065
+39,Ohio,OH,67,Harrison,5,39067
+39,Ohio,OH,69,Henry,5,39069
+39,Ohio,OH,71,Highland,5,39071
+39,Ohio,OH,73,Hocking,5,39073
+39,Ohio,OH,75,Holmes,5,39075
+39,Ohio,OH,77,Huron,5,39077
+39,Ohio,OH,79,Jackson,5,39079
+39,Ohio,OH,81,Jefferson,5,39081
+39,Ohio,OH,83,Knox,5,39083
+39,Ohio,OH,85,Lake,5,39085
+39,Ohio,OH,87,Lawrence,5,39087
+39,Ohio,OH,89,Licking,5,39089
+39,Ohio,OH,91,Logan,5,39091
+39,Ohio,OH,93,Lorain,5,39093
+39,Ohio,OH,95,Lucas,5,39095
+39,Ohio,OH,97,Madison,5,39097
+39,Ohio,OH,99,Mahoning,5,39099
+39,Ohio,OH,101,Marion,5,39101
+39,Ohio,OH,103,Medina,5,39103
+39,Ohio,OH,105,Meigs,5,39105
+39,Ohio,OH,107,Mercer,5,39107
+39,Ohio,OH,109,Miami,5,39109
+39,Ohio,OH,111,Monroe,5,39111
+39,Ohio,OH,113,Montgomery,5,39113
+39,Ohio,OH,115,Morgan,5,39115
+39,Ohio,OH,117,Morrow,5,39117
+39,Ohio,OH,119,Muskingum,5,39119
+39,Ohio,OH,121,Noble,5,39121
+39,Ohio,OH,123,Ottawa,5,39123
+39,Ohio,OH,125,Paulding,5,39125
+39,Ohio,OH,127,Perry,5,39127
+39,Ohio,OH,129,Pickaway,5,39129
+39,Ohio,OH,131,Pike,5,39131
+39,Ohio,OH,133,Portage,5,39133
+39,Ohio,OH,135,Preble,5,39135
+39,Ohio,OH,137,Putnam,5,39137
+39,Ohio,OH,139,Richland,5,39139
+39,Ohio,OH,141,Ross,5,39141
+39,Ohio,OH,143,Sandusky,5,39143
+39,Ohio,OH,145,Scioto,5,39145
+39,Ohio,OH,147,Seneca,5,39147
+39,Ohio,OH,149,Shelby,5,39149
+39,Ohio,OH,151,Stark,5,39151
+39,Ohio,OH,153,Summit,5,39153
+39,Ohio,OH,155,Trumbull,5,39155
+39,Ohio,OH,157,Tuscarawas,5,39157
+39,Ohio,OH,159,Union,5,39159
+39,Ohio,OH,161,Van Wert,5,39161
+39,Ohio,OH,163,Vinton,5,39163
+39,Ohio,OH,165,Warren,5,39165
+39,Ohio,OH,167,Washington,5,39167
+39,Ohio,OH,169,Wayne,5,39169
+39,Ohio,OH,171,Williams,5,39171
+39,Ohio,OH,173,Wood,5,39173
+39,Ohio,OH,175,Wyandot,5,39175
+40,Oklahoma,OK,1,Adair,6,40001
+40,Oklahoma,OK,3,Alfalfa,6,40003
+40,Oklahoma,OK,5,Atoka,6,40005
+40,Oklahoma,OK,7,Beaver,6,40007
+40,Oklahoma,OK,9,Beckham,6,40009
+40,Oklahoma,OK,11,Blaine,6,40011
+40,Oklahoma,OK,13,Bryan,6,40013
+40,Oklahoma,OK,15,Caddo,6,40015
+40,Oklahoma,OK,17,Canadian,6,40017
+40,Oklahoma,OK,19,Carter,6,40019
+40,Oklahoma,OK,21,Cherokee,6,40021
+40,Oklahoma,OK,23,Choctaw,6,40023
+40,Oklahoma,OK,25,Cimarron,6,40025
+40,Oklahoma,OK,27,Cleveland,6,40027
+40,Oklahoma,OK,29,Coal,6,40029
+40,Oklahoma,OK,31,Comanche,6,40031
+40,Oklahoma,OK,33,Cotton,6,40033
+40,Oklahoma,OK,35,Craig,6,40035
+40,Oklahoma,OK,37,Creek,6,40037
+40,Oklahoma,OK,39,Custer,6,40039
+40,Oklahoma,OK,41,Delaware,6,40041
+40,Oklahoma,OK,43,Dewey,6,40043
+40,Oklahoma,OK,45,Ellis,6,40045
+40,Oklahoma,OK,47,Garfield,6,40047
+40,Oklahoma,OK,49,Garvin,6,40049
+40,Oklahoma,OK,51,Grady,6,40051
+40,Oklahoma,OK,53,Grant,6,40053
+40,Oklahoma,OK,55,Greer,6,40055
+40,Oklahoma,OK,57,Harmon,6,40057
+40,Oklahoma,OK,59,Harper,6,40059
+40,Oklahoma,OK,61,Haskell,6,40061
+40,Oklahoma,OK,63,Hughes,6,40063
+40,Oklahoma,OK,65,Jackson,6,40065
+40,Oklahoma,OK,67,Jefferson,6,40067
+40,Oklahoma,OK,69,Johnston,6,40069
+40,Oklahoma,OK,71,Kay,6,40071
+40,Oklahoma,OK,73,Kingfisher,6,40073
+40,Oklahoma,OK,75,Kiowa,6,40075
+40,Oklahoma,OK,77,Latimer,6,40077
+40,Oklahoma,OK,79,Le Flore,6,40079
+40,Oklahoma,OK,81,Lincoln,6,40081
+40,Oklahoma,OK,83,Logan,6,40083
+40,Oklahoma,OK,85,Love,6,40085
+40,Oklahoma,OK,87,McClain,6,40087
+40,Oklahoma,OK,89,McCurtain,6,40089
+40,Oklahoma,OK,91,McIntosh,6,40091
+40,Oklahoma,OK,93,Major,6,40093
+40,Oklahoma,OK,95,Marshall,6,40095
+40,Oklahoma,OK,97,Mayes,6,40097
+40,Oklahoma,OK,99,Murray,6,40099
+40,Oklahoma,OK,101,Muskogee,6,40101
+40,Oklahoma,OK,103,Noble,6,40103
+40,Oklahoma,OK,105,Nowata,6,40105
+40,Oklahoma,OK,107,Okfuskee,6,40107
+40,Oklahoma,OK,109,Oklahoma,6,40109
+40,Oklahoma,OK,111,Okmulgee,6,40111
+40,Oklahoma,OK,113,Osage,6,40113
+40,Oklahoma,OK,115,Ottawa,6,40115
+40,Oklahoma,OK,117,Pawnee,6,40117
+40,Oklahoma,OK,119,Payne,6,40119
+40,Oklahoma,OK,121,Pittsburg,6,40121
+40,Oklahoma,OK,123,Pontotoc,6,40123
+40,Oklahoma,OK,125,Pottawatomie,6,40125
+40,Oklahoma,OK,127,Pushmataha,6,40127
+40,Oklahoma,OK,129,Roger Mills,6,40129
+40,Oklahoma,OK,131,Rogers,6,40131
+40,Oklahoma,OK,133,Seminole,6,40133
+40,Oklahoma,OK,135,Sequoyah,6,40135
+40,Oklahoma,OK,137,Stephens,6,40137
+40,Oklahoma,OK,139,Texas,6,40139
+40,Oklahoma,OK,141,Tillman,6,40141
+40,Oklahoma,OK,143,Tulsa,6,40143
+40,Oklahoma,OK,145,Wagoner,6,40145
+40,Oklahoma,OK,147,Washington,6,40147
+40,Oklahoma,OK,149,Washita,6,40149
+40,Oklahoma,OK,151,Woods,6,40151
+40,Oklahoma,OK,153,Woodward,6,40153
+41,Oregon,OR,1,Baker,10,41001
+41,Oregon,OR,3,Benton,10,41003
+41,Oregon,OR,5,Clackamas,10,41005
+41,Oregon,OR,7,Clatsop,10,41007
+41,Oregon,OR,9,Columbia,10,41009
+41,Oregon,OR,11,Coos,10,41011
+41,Oregon,OR,13,Crook,10,41013
+41,Oregon,OR,15,Curry,10,41015
+41,Oregon,OR,17,Deschutes,10,41017
+41,Oregon,OR,19,Douglas,10,41019
+41,Oregon,OR,21,Gilliam,10,41021
+41,Oregon,OR,23,Grant,10,41023
+41,Oregon,OR,25,Harney,10,41025
+41,Oregon,OR,27,Hood River,10,41027
+41,Oregon,OR,29,Jackson,10,41029
+41,Oregon,OR,31,Jefferson,10,41031
+41,Oregon,OR,33,Josephine,10,41033
+41,Oregon,OR,35,Klamath,10,41035
+41,Oregon,OR,37,Lake,10,41037
+41,Oregon,OR,39,Lane,10,41039
+41,Oregon,OR,41,Lincoln,10,41041
+41,Oregon,OR,43,Linn,10,41043
+41,Oregon,OR,45,Malheur,10,41045
+41,Oregon,OR,47,Marion,10,41047
+41,Oregon,OR,49,Morrow,10,41049
+41,Oregon,OR,51,Multnomah,10,41051
+41,Oregon,OR,53,Polk,10,41053
+41,Oregon,OR,55,Sherman,10,41055
+41,Oregon,OR,57,Tillamook,10,41057
+41,Oregon,OR,59,Umatilla,10,41059
+41,Oregon,OR,61,Union,10,41061
+41,Oregon,OR,63,Wallowa,10,41063
+41,Oregon,OR,65,Wasco,10,41065
+41,Oregon,OR,67,Washington,10,41067
+41,Oregon,OR,69,Wheeler,10,41069
+41,Oregon,OR,71,Yamhill,10,41071
+42,Pennsylvania,PA,1,Adams,3,42001
+42,Pennsylvania,PA,3,Allegheny,3,42003
+42,Pennsylvania,PA,5,Armstrong,3,42005
+42,Pennsylvania,PA,7,Beaver,3,42007
+42,Pennsylvania,PA,9,Bedford,3,42009
+42,Pennsylvania,PA,11,Berks,3,42011
+42,Pennsylvania,PA,13,Blair,3,42013
+42,Pennsylvania,PA,15,Bradford,3,42015
+42,Pennsylvania,PA,17,Bucks,3,42017
+42,Pennsylvania,PA,19,Butler,3,42019
+42,Pennsylvania,PA,21,Cambria,3,42021
+42,Pennsylvania,PA,23,Cameron,3,42023
+42,Pennsylvania,PA,25,Carbon,3,42025
+42,Pennsylvania,PA,27,Centre,3,42027
+42,Pennsylvania,PA,29,Chester,3,42029
+42,Pennsylvania,PA,31,Clarion,3,42031
+42,Pennsylvania,PA,33,Clearfield,3,42033
+42,Pennsylvania,PA,35,Clinton,3,42035
+42,Pennsylvania,PA,37,Columbia,3,42037
+42,Pennsylvania,PA,39,Crawford,3,42039
+42,Pennsylvania,PA,41,Cumberland,3,42041
+42,Pennsylvania,PA,43,Dauphin,3,42043
+42,Pennsylvania,PA,45,Delaware,3,42045
+42,Pennsylvania,PA,47,Elk,3,42047
+42,Pennsylvania,PA,49,Erie,3,42049
+42,Pennsylvania,PA,51,Fayette,3,42051
+42,Pennsylvania,PA,53,Forest,3,42053
+42,Pennsylvania,PA,55,Franklin,3,42055
+42,Pennsylvania,PA,57,Fulton,3,42057
+42,Pennsylvania,PA,59,Greene,3,42059
+42,Pennsylvania,PA,61,Huntingdon,3,42061
+42,Pennsylvania,PA,63,Indiana,3,42063
+42,Pennsylvania,PA,65,Jefferson,3,42065
+42,Pennsylvania,PA,67,Juniata,3,42067
+42,Pennsylvania,PA,69,Lackawanna,3,42069
+42,Pennsylvania,PA,71,Lancaster,3,42071
+42,Pennsylvania,PA,73,Lawrence,3,42073
+42,Pennsylvania,PA,75,Lebanon,3,42075
+42,Pennsylvania,PA,77,Lehigh,3,42077
+42,Pennsylvania,PA,79,Luzerne,3,42079
+42,Pennsylvania,PA,81,Lycoming,3,42081
+42,Pennsylvania,PA,83,McKean,3,42083
+42,Pennsylvania,PA,85,Mercer,3,42085
+42,Pennsylvania,PA,87,Mifflin,3,42087
+42,Pennsylvania,PA,89,Monroe,3,42089
+42,Pennsylvania,PA,91,Montgomery,3,42091
+42,Pennsylvania,PA,93,Montour,3,42093
+42,Pennsylvania,PA,95,Northampton,3,42095
+42,Pennsylvania,PA,97,Northumberland,3,42097
+42,Pennsylvania,PA,99,Perry,3,42099
+42,Pennsylvania,PA,101,Philadelphia,3,42101
+42,Pennsylvania,PA,103,Pike,3,42103
+42,Pennsylvania,PA,105,Potter,3,42105
+42,Pennsylvania,PA,107,Schuylkill,3,42107
+42,Pennsylvania,PA,109,Snyder,3,42109
+42,Pennsylvania,PA,111,Somerset,3,42111
+42,Pennsylvania,PA,113,Sullivan,3,42113
+42,Pennsylvania,PA,115,Susquehanna,3,42115
+42,Pennsylvania,PA,117,Tioga,3,42117
+42,Pennsylvania,PA,119,Union,3,42119
+42,Pennsylvania,PA,121,Venango,3,42121
+42,Pennsylvania,PA,123,Warren,3,42123
+42,Pennsylvania,PA,125,Washington,3,42125
+42,Pennsylvania,PA,127,Wayne,3,42127
+42,Pennsylvania,PA,129,Westmoreland,3,42129
+42,Pennsylvania,PA,131,Wyoming,3,42131
+42,Pennsylvania,PA,133,York,3,42133
+44,Rhode Island,RI,1,Bristol,1,44001
+44,Rhode Island,RI,3,Kent,1,44003
+44,Rhode Island,RI,5,Newport,1,44005
+44,Rhode Island,RI,7,Providence,1,44007
+44,Rhode Island,RI,9,Washington,1,44009
+45,South Carolina,SC,1,Abbeville,4,45001
+45,South Carolina,SC,3,Aiken,4,45003
+45,South Carolina,SC,5,Allendale,4,45005
+45,South Carolina,SC,7,Anderson,4,45007
+45,South Carolina,SC,9,Bamberg,4,45009
+45,South Carolina,SC,11,Barnwell,4,45011
+45,South Carolina,SC,13,Beaufort,4,45013
+45,South Carolina,SC,15,Berkeley,4,45015
+45,South Carolina,SC,17,Calhoun,4,45017
+45,South Carolina,SC,19,Charleston,4,45019
+45,South Carolina,SC,21,Cherokee,4,45021
+45,South Carolina,SC,23,Chester,4,45023
+45,South Carolina,SC,25,Chesterfield,4,45025
+45,South Carolina,SC,27,Clarendon,4,45027
+45,South Carolina,SC,29,Colleton,4,45029
+45,South Carolina,SC,31,Darlington,4,45031
+45,South Carolina,SC,33,Dillon,4,45033
+45,South Carolina,SC,35,Dorchester,4,45035
+45,South Carolina,SC,37,Edgefield,4,45037
+45,South Carolina,SC,39,Fairfield,4,45039
+45,South Carolina,SC,41,Florence,4,45041
+45,South Carolina,SC,43,Georgetown,4,45043
+45,South Carolina,SC,45,Greenville,4,45045
+45,South Carolina,SC,47,Greenwood,4,45047
+45,South Carolina,SC,49,Hampton,4,45049
+45,South Carolina,SC,51,Horry,4,45051
+45,South Carolina,SC,53,Jasper,4,45053
+45,South Carolina,SC,55,Kershaw,4,45055
+45,South Carolina,SC,57,Lancaster,4,45057
+45,South Carolina,SC,59,Laurens,4,45059
+45,South Carolina,SC,61,Lee,4,45061
+45,South Carolina,SC,63,Lexington,4,45063
+45,South Carolina,SC,65,McCormick,4,45065
+45,South Carolina,SC,67,Marion,4,45067
+45,South Carolina,SC,69,Marlboro,4,45069
+45,South Carolina,SC,71,Newberry,4,45071
+45,South Carolina,SC,73,Oconee,4,45073
+45,South Carolina,SC,75,Orangeburg,4,45075
+45,South Carolina,SC,77,Pickens,4,45077
+45,South Carolina,SC,79,Richland,4,45079
+45,South Carolina,SC,81,Saluda,4,45081
+45,South Carolina,SC,83,Spartanburg,4,45083
+45,South Carolina,SC,85,Sumter,4,45085
+45,South Carolina,SC,87,Union,4,45087
+45,South Carolina,SC,89,Williamsburg,4,45089
+45,South Carolina,SC,91,York,4,45091
+46,South Dakota,SD,3,Aurora,8,46003
+46,South Dakota,SD,5,Beadle,8,46005
+46,South Dakota,SD,7,Bennett,8,46007
+46,South Dakota,SD,9,Bon Homme,8,46009
+46,South Dakota,SD,11,Brookings,8,46011
+46,South Dakota,SD,13,Brown,8,46013
+46,South Dakota,SD,15,Brule,8,46015
+46,South Dakota,SD,17,Buffalo,8,46017
+46,South Dakota,SD,19,Butte,8,46019
+46,South Dakota,SD,21,Campbell,8,46021
+46,South Dakota,SD,23,Charles Mix,8,46023
+46,South Dakota,SD,25,Clark,8,46025
+46,South Dakota,SD,27,Clay,8,46027
+46,South Dakota,SD,29,Codington,8,46029
+46,South Dakota,SD,31,Corson,8,46031
+46,South Dakota,SD,33,Custer,8,46033
+46,South Dakota,SD,35,Davison,8,46035
+46,South Dakota,SD,37,Day,8,46037
+46,South Dakota,SD,39,Deuel,8,46039
+46,South Dakota,SD,41,Dewey,8,46041
+46,South Dakota,SD,43,Douglas,8,46043
+46,South Dakota,SD,45,Edmunds,8,46045
+46,South Dakota,SD,47,Fall River,8,46047
+46,South Dakota,SD,49,Faulk,8,46049
+46,South Dakota,SD,51,Grant,8,46051
+46,South Dakota,SD,53,Gregory,8,46053
+46,South Dakota,SD,55,Haakon,8,46055
+46,South Dakota,SD,57,Hamlin,8,46057
+46,South Dakota,SD,59,Hand,8,46059
+46,South Dakota,SD,61,Hanson,8,46061
+46,South Dakota,SD,63,Harding,8,46063
+46,South Dakota,SD,65,Hughes,8,46065
+46,South Dakota,SD,67,Hutchinson,8,46067
+46,South Dakota,SD,69,Hyde,8,46069
+46,South Dakota,SD,71,Jackson,8,46071
+46,South Dakota,SD,73,Jerauld,8,46073
+46,South Dakota,SD,75,Jones,8,46075
+46,South Dakota,SD,77,Kingsbury,8,46077
+46,South Dakota,SD,79,Lake,8,46079
+46,South Dakota,SD,81,Lawrence,8,46081
+46,South Dakota,SD,83,Lincoln,8,46083
+46,South Dakota,SD,85,Lyman,8,46085
+46,South Dakota,SD,87,McCook,8,46087
+46,South Dakota,SD,89,McPherson,8,46089
+46,South Dakota,SD,91,Marshall,8,46091
+46,South Dakota,SD,93,Meade,8,46093
+46,South Dakota,SD,95,Mellette,8,46095
+46,South Dakota,SD,97,Miner,8,46097
+46,South Dakota,SD,99,Minnehaha,8,46099
+46,South Dakota,SD,101,Moody,8,46101
+46,South Dakota,SD,103,Pennington,8,46103
+46,South Dakota,SD,105,Perkins,8,46105
+46,South Dakota,SD,107,Potter,8,46107
+46,South Dakota,SD,109,Roberts,8,46109
+46,South Dakota,SD,111,Sanborn,8,46111
+46,South Dakota,SD,113,Shannon,8,46113
+46,South Dakota,SD,115,Spink,8,46115
+46,South Dakota,SD,117,Stanley,8,46117
+46,South Dakota,SD,119,Sully,8,46119
+46,South Dakota,SD,121,Todd,8,46121
+46,South Dakota,SD,123,Tripp,8,46123
+46,South Dakota,SD,125,Turner,8,46125
+46,South Dakota,SD,127,Union,8,46127
+46,South Dakota,SD,129,Walworth,8,46129
+46,South Dakota,SD,135,Yankton,8,46135
+46,South Dakota,SD,137,Ziebach,8,46137
+47,Tennessee,TN,1,Anderson,4,47001
+47,Tennessee,TN,3,Bedford,4,47003
+47,Tennessee,TN,5,Benton,4,47005
+47,Tennessee,TN,7,Bledsoe,4,47007
+47,Tennessee,TN,9,Blount,4,47009
+47,Tennessee,TN,11,Bradley,4,47011
+47,Tennessee,TN,13,Campbell,4,47013
+47,Tennessee,TN,15,Cannon,4,47015
+47,Tennessee,TN,17,Carroll,4,47017
+47,Tennessee,TN,19,Carter,4,47019
+47,Tennessee,TN,21,Cheatham,4,47021
+47,Tennessee,TN,23,Chester,4,47023
+47,Tennessee,TN,25,Claiborne,4,47025
+47,Tennessee,TN,27,Clay,4,47027
+47,Tennessee,TN,29,Cocke,4,47029
+47,Tennessee,TN,31,Coffee,4,47031
+47,Tennessee,TN,33,Crockett,4,47033
+47,Tennessee,TN,35,Cumberland,4,47035
+47,Tennessee,TN,37,Davidson,4,47037
+47,Tennessee,TN,39,Decatur,4,47039
+47,Tennessee,TN,41,DeKalb,4,47041
+47,Tennessee,TN,43,Dickson,4,47043
+47,Tennessee,TN,45,Dyer,4,47045
+47,Tennessee,TN,47,Fayette,4,47047
+47,Tennessee,TN,49,Fentress,4,47049
+47,Tennessee,TN,51,Franklin,4,47051
+47,Tennessee,TN,53,Gibson,4,47053
+47,Tennessee,TN,55,Giles,4,47055
+47,Tennessee,TN,57,Grainger,4,47057
+47,Tennessee,TN,59,Greene,4,47059
+47,Tennessee,TN,61,Grundy,4,47061
+47,Tennessee,TN,63,Hamblen,4,47063
+47,Tennessee,TN,65,Hamilton,4,47065
+47,Tennessee,TN,67,Hancock,4,47067
+47,Tennessee,TN,69,Hardeman,4,47069
+47,Tennessee,TN,71,Hardin,4,47071
+47,Tennessee,TN,73,Hawkins,4,47073
+47,Tennessee,TN,75,Haywood,4,47075
+47,Tennessee,TN,77,Henderson,4,47077
+47,Tennessee,TN,79,Henry,4,47079
+47,Tennessee,TN,81,Hickman,4,47081
+47,Tennessee,TN,83,Houston,4,47083
+47,Tennessee,TN,85,Humphreys,4,47085
+47,Tennessee,TN,87,Jackson,4,47087
+47,Tennessee,TN,89,Jefferson,4,47089
+47,Tennessee,TN,91,Johnson,4,47091
+47,Tennessee,TN,93,Knox,4,47093
+47,Tennessee,TN,95,Lake,4,47095
+47,Tennessee,TN,97,Lauderdale,4,47097
+47,Tennessee,TN,99,Lawrence,4,47099
+47,Tennessee,TN,101,Lewis,4,47101
+47,Tennessee,TN,103,Lincoln,4,47103
+47,Tennessee,TN,105,Loudon,4,47105
+47,Tennessee,TN,107,McMinn,4,47107
+47,Tennessee,TN,109,McNairy,4,47109
+47,Tennessee,TN,111,Macon,4,47111
+47,Tennessee,TN,113,Madison,4,47113
+47,Tennessee,TN,115,Marion,4,47115
+47,Tennessee,TN,117,Marshall,4,47117
+47,Tennessee,TN,119,Maury,4,47119
+47,Tennessee,TN,121,Meigs,4,47121
+47,Tennessee,TN,123,Monroe,4,47123
+47,Tennessee,TN,125,Montgomery,4,47125
+47,Tennessee,TN,127,Moore,4,47127
+47,Tennessee,TN,129,Morgan,4,47129
+47,Tennessee,TN,131,Obion,4,47131
+47,Tennessee,TN,133,Overton,4,47133
+47,Tennessee,TN,135,Perry,4,47135
+47,Tennessee,TN,137,Pickett,4,47137
+47,Tennessee,TN,139,Polk,4,47139
+47,Tennessee,TN,141,Putnam,4,47141
+47,Tennessee,TN,143,Rhea,4,47143
+47,Tennessee,TN,145,Roane,4,47145
+47,Tennessee,TN,147,Robertson,4,47147
+47,Tennessee,TN,149,Rutherford,4,47149
+47,Tennessee,TN,151,Scott,4,47151
+47,Tennessee,TN,153,Sequatchie,4,47153
+47,Tennessee,TN,155,Sevier,4,47155
+47,Tennessee,TN,157,Shelby,4,47157
+47,Tennessee,TN,159,Smith,4,47159
+47,Tennessee,TN,161,Stewart,4,47161
+47,Tennessee,TN,163,Sullivan,4,47163
+47,Tennessee,TN,165,Sumner,4,47165
+47,Tennessee,TN,167,Tipton,4,47167
+47,Tennessee,TN,169,Trousdale,4,47169
+47,Tennessee,TN,171,Unicoi,4,47171
+47,Tennessee,TN,173,Union,4,47173
+47,Tennessee,TN,175,Van Buren,4,47175
+47,Tennessee,TN,177,Warren,4,47177
+47,Tennessee,TN,179,Washington,4,47179
+47,Tennessee,TN,181,Wayne,4,47181
+47,Tennessee,TN,183,Weakley,4,47183
+47,Tennessee,TN,185,White,4,47185
+47,Tennessee,TN,187,Williamson,4,47187
+47,Tennessee,TN,189,Wilson,4,47189
+48,Texas,TX,1,Anderson,6,48001
+48,Texas,TX,3,Andrews,6,48003
+48,Texas,TX,5,Angelina,6,48005
+48,Texas,TX,7,Aransas,6,48007
+48,Texas,TX,9,Archer,6,48009
+48,Texas,TX,11,Armstrong,6,48011
+48,Texas,TX,13,Atascosa,6,48013
+48,Texas,TX,15,Austin,6,48015
+48,Texas,TX,17,Bailey,6,48017
+48,Texas,TX,19,Bandera,6,48019
+48,Texas,TX,21,Bastrop,6,48021
+48,Texas,TX,23,Baylor,6,48023
+48,Texas,TX,25,Bee,6,48025
+48,Texas,TX,27,Bell,6,48027
+48,Texas,TX,29,Bexar,6,48029
+48,Texas,TX,31,Blanco,6,48031
+48,Texas,TX,33,Borden,6,48033
+48,Texas,TX,35,Bosque,6,48035
+48,Texas,TX,37,Bowie,6,48037
+48,Texas,TX,39,Brazoria,6,48039
+48,Texas,TX,41,Brazos,6,48041
+48,Texas,TX,43,Brewster,6,48043
+48,Texas,TX,45,Briscoe,6,48045
+48,Texas,TX,47,Brooks,6,48047
+48,Texas,TX,49,Brown,6,48049
+48,Texas,TX,51,Burleson,6,48051
+48,Texas,TX,53,Burnet,6,48053
+48,Texas,TX,55,Caldwell,6,48055
+48,Texas,TX,57,Calhoun,6,48057
+48,Texas,TX,59,Callahan,6,48059
+48,Texas,TX,61,Cameron,6,48061
+48,Texas,TX,63,Camp,6,48063
+48,Texas,TX,65,Carson,6,48065
+48,Texas,TX,67,Cass,6,48067
+48,Texas,TX,69,Castro,6,48069
+48,Texas,TX,71,Chambers,6,48071
+48,Texas,TX,73,Cherokee,6,48073
+48,Texas,TX,75,Childress,6,48075
+48,Texas,TX,77,Clay,6,48077
+48,Texas,TX,79,Cochran,6,48079
+48,Texas,TX,81,Coke,6,48081
+48,Texas,TX,83,Coleman,6,48083
+48,Texas,TX,85,Collin,6,48085
+48,Texas,TX,87,Collingsworth,6,48087
+48,Texas,TX,89,Colorado,6,48089
+48,Texas,TX,91,Comal,6,48091
+48,Texas,TX,93,Comanche,6,48093
+48,Texas,TX,95,Concho,6,48095
+48,Texas,TX,97,Cooke,6,48097
+48,Texas,TX,99,Coryell,6,48099
+48,Texas,TX,101,Cottle,6,48101
+48,Texas,TX,103,Crane,6,48103
+48,Texas,TX,105,Crockett,6,48105
+48,Texas,TX,107,Crosby,6,48107
+48,Texas,TX,109,Culberson,6,48109
+48,Texas,TX,111,Dallam,6,48111
+48,Texas,TX,113,Dallas,6,48113
+48,Texas,TX,115,Dawson,6,48115
+48,Texas,TX,117,Deaf Smith,6,48117
+48,Texas,TX,119,Delta,6,48119
+48,Texas,TX,121,Denton,6,48121
+48,Texas,TX,123,DeWitt,6,48123
+48,Texas,TX,125,Dickens,6,48125
+48,Texas,TX,127,Dimmit,6,48127
+48,Texas,TX,129,Donley,6,48129
+48,Texas,TX,131,Duval,6,48131
+48,Texas,TX,133,Eastland,6,48133
+48,Texas,TX,135,Ector,6,48135
+48,Texas,TX,137,Edwards,6,48137
+48,Texas,TX,139,Ellis,6,48139
+48,Texas,TX,141,El Paso,6,48141
+48,Texas,TX,143,Erath,6,48143
+48,Texas,TX,145,Falls,6,48145
+48,Texas,TX,147,Fannin,6,48147
+48,Texas,TX,149,Fayette,6,48149
+48,Texas,TX,151,Fisher,6,48151
+48,Texas,TX,153,Floyd,6,48153
+48,Texas,TX,155,Foard,6,48155
+48,Texas,TX,157,Fort Bend,6,48157
+48,Texas,TX,159,Franklin,6,48159
+48,Texas,TX,161,Freestone,6,48161
+48,Texas,TX,163,Frio,6,48163
+48,Texas,TX,165,Gaines,6,48165
+48,Texas,TX,167,Galveston,6,48167
+48,Texas,TX,169,Garza,6,48169
+48,Texas,TX,171,Gillespie,6,48171
+48,Texas,TX,173,Glasscock,6,48173
+48,Texas,TX,175,Goliad,6,48175
+48,Texas,TX,177,Gonzales,6,48177
+48,Texas,TX,179,Gray,6,48179
+48,Texas,TX,181,Grayson,6,48181
+48,Texas,TX,183,Gregg,6,48183
+48,Texas,TX,185,Grimes,6,48185
+48,Texas,TX,187,Guadalupe,6,48187
+48,Texas,TX,189,Hale,6,48189
+48,Texas,TX,191,Hall,6,48191
+48,Texas,TX,193,Hamilton,6,48193
+48,Texas,TX,195,Hansford,6,48195
+48,Texas,TX,197,Hardeman,6,48197
+48,Texas,TX,199,Hardin,6,48199
+48,Texas,TX,201,Harris,6,48201
+48,Texas,TX,203,Harrison,6,48203
+48,Texas,TX,205,Hartley,6,48205
+48,Texas,TX,207,Haskell,6,48207
+48,Texas,TX,209,Hays,6,48209
+48,Texas,TX,211,Hemphill,6,48211
+48,Texas,TX,213,Henderson,6,48213
+48,Texas,TX,215,Hidalgo,6,48215
+48,Texas,TX,217,Hill,6,48217
+48,Texas,TX,219,Hockley,6,48219
+48,Texas,TX,221,Hood,6,48221
+48,Texas,TX,223,Hopkins,6,48223
+48,Texas,TX,225,Houston,6,48225
+48,Texas,TX,227,Howard,6,48227
+48,Texas,TX,229,Hudspeth,6,48229
+48,Texas,TX,231,Hunt,6,48231
+48,Texas,TX,233,Hutchinson,6,48233
+48,Texas,TX,235,Irion,6,48235
+48,Texas,TX,237,Jack,6,48237
+48,Texas,TX,239,Jackson,6,48239
+48,Texas,TX,241,Jasper,6,48241
+48,Texas,TX,243,Jeff Davis,6,48243
+48,Texas,TX,245,Jefferson,6,48245
+48,Texas,TX,247,Jim Hogg,6,48247
+48,Texas,TX,249,Jim Wells,6,48249
+48,Texas,TX,251,Johnson,6,48251
+48,Texas,TX,253,Jones,6,48253
+48,Texas,TX,255,Karnes,6,48255
+48,Texas,TX,257,Kaufman,6,48257
+48,Texas,TX,259,Kendall,6,48259
+48,Texas,TX,261,Kenedy,6,48261
+48,Texas,TX,263,Kent,6,48263
+48,Texas,TX,265,Kerr,6,48265
+48,Texas,TX,267,Kimble,6,48267
+48,Texas,TX,269,King,6,48269
+48,Texas,TX,271,Kinney,6,48271
+48,Texas,TX,273,Kleberg,6,48273
+48,Texas,TX,275,Knox,6,48275
+48,Texas,TX,277,Lamar,6,48277
+48,Texas,TX,279,Lamb,6,48279
+48,Texas,TX,281,Lampasas,6,48281
+48,Texas,TX,283,La Salle,6,48283
+48,Texas,TX,285,Lavaca,6,48285
+48,Texas,TX,287,Lee,6,48287
+48,Texas,TX,289,Leon,6,48289
+48,Texas,TX,291,Liberty,6,48291
+48,Texas,TX,293,Limestone,6,48293
+48,Texas,TX,295,Lipscomb,6,48295
+48,Texas,TX,297,Live Oak,6,48297
+48,Texas,TX,299,Llano,6,48299
+48,Texas,TX,301,Loving,6,48301
+48,Texas,TX,303,Lubbock,6,48303
+48,Texas,TX,305,Lynn,6,48305
+48,Texas,TX,307,McCulloch,6,48307
+48,Texas,TX,309,McLennan,6,48309
+48,Texas,TX,311,McMullen,6,48311
+48,Texas,TX,313,Madison,6,48313
+48,Texas,TX,315,Marion,6,48315
+48,Texas,TX,317,Martin,6,48317
+48,Texas,TX,319,Mason,6,48319
+48,Texas,TX,321,Matagorda,6,48321
+48,Texas,TX,323,Maverick,6,48323
+48,Texas,TX,325,Medina,6,48325
+48,Texas,TX,327,Menard,6,48327
+48,Texas,TX,329,Midland,6,48329
+48,Texas,TX,331,Milam,6,48331
+48,Texas,TX,333,Mills,6,48333
+48,Texas,TX,335,Mitchell,6,48335
+48,Texas,TX,337,Montague,6,48337
+48,Texas,TX,339,Montgomery,6,48339
+48,Texas,TX,341,Moore,6,48341
+48,Texas,TX,343,Morris,6,48343
+48,Texas,TX,345,Motley,6,48345
+48,Texas,TX,347,Nacogdoches,6,48347
+48,Texas,TX,349,Navarro,6,48349
+48,Texas,TX,351,Newton,6,48351
+48,Texas,TX,353,Nolan,6,48353
+48,Texas,TX,355,Nueces,6,48355
+48,Texas,TX,357,Ochiltree,6,48357
+48,Texas,TX,359,Oldham,6,48359
+48,Texas,TX,361,Orange,6,48361
+48,Texas,TX,363,Palo Pinto,6,48363
+48,Texas,TX,365,Panola,6,48365
+48,Texas,TX,367,Parker,6,48367
+48,Texas,TX,369,Parmer,6,48369
+48,Texas,TX,371,Pecos,6,48371
+48,Texas,TX,373,Polk,6,48373
+48,Texas,TX,375,Potter,6,48375
+48,Texas,TX,377,Presidio,6,48377
+48,Texas,TX,379,Rains,6,48379
+48,Texas,TX,381,Randall,6,48381
+48,Texas,TX,383,Reagan,6,48383
+48,Texas,TX,385,Real,6,48385
+48,Texas,TX,387,Red River,6,48387
+48,Texas,TX,389,Reeves,6,48389
+48,Texas,TX,391,Refugio,6,48391
+48,Texas,TX,393,Roberts,6,48393
+48,Texas,TX,395,Robertson,6,48395
+48,Texas,TX,397,Rockwall,6,48397
+48,Texas,TX,399,Runnels,6,48399
+48,Texas,TX,401,Rusk,6,48401
+48,Texas,TX,403,Sabine,6,48403
+48,Texas,TX,405,San Augustine,6,48405
+48,Texas,TX,407,San Jacinto,6,48407
+48,Texas,TX,409,San Patricio,6,48409
+48,Texas,TX,411,San Saba,6,48411
+48,Texas,TX,413,Schleicher,6,48413
+48,Texas,TX,415,Scurry,6,48415
+48,Texas,TX,417,Shackelford,6,48417
+48,Texas,TX,419,Shelby,6,48419
+48,Texas,TX,421,Sherman,6,48421
+48,Texas,TX,423,Smith,6,48423
+48,Texas,TX,425,Somervell,6,48425
+48,Texas,TX,427,Starr,6,48427
+48,Texas,TX,429,Stephens,6,48429
+48,Texas,TX,431,Sterling,6,48431
+48,Texas,TX,433,Stonewall,6,48433
+48,Texas,TX,435,Sutton,6,48435
+48,Texas,TX,437,Swisher,6,48437
+48,Texas,TX,439,Tarrant,6,48439
+48,Texas,TX,441,Taylor,6,48441
+48,Texas,TX,443,Terrell,6,48443
+48,Texas,TX,445,Terry,6,48445
+48,Texas,TX,447,Throckmorton,6,48447
+48,Texas,TX,449,Titus,6,48449
+48,Texas,TX,451,Tom Green,6,48451
+48,Texas,TX,453,Travis,6,48453
+48,Texas,TX,455,Trinity,6,48455
+48,Texas,TX,457,Tyler,6,48457
+48,Texas,TX,459,Upshur,6,48459
+48,Texas,TX,461,Upton,6,48461
+48,Texas,TX,463,Uvalde,6,48463
+48,Texas,TX,465,Val Verde,6,48465
+48,Texas,TX,467,Van Zandt,6,48467
+48,Texas,TX,469,Victoria,6,48469
+48,Texas,TX,471,Walker,6,48471
+48,Texas,TX,473,Waller,6,48473
+48,Texas,TX,475,Ward,6,48475
+48,Texas,TX,477,Washington,6,48477
+48,Texas,TX,479,Webb,6,48479
+48,Texas,TX,481,Wharton,6,48481
+48,Texas,TX,483,Wheeler,6,48483
+48,Texas,TX,485,Wichita,6,48485
+48,Texas,TX,487,Wilbarger,6,48487
+48,Texas,TX,489,Willacy,6,48489
+48,Texas,TX,491,Williamson,6,48491
+48,Texas,TX,493,Wilson,6,48493
+48,Texas,TX,495,Winkler,6,48495
+48,Texas,TX,497,Wise,6,48497
+48,Texas,TX,499,Wood,6,48499
+48,Texas,TX,501,Yoakum,6,48501
+48,Texas,TX,503,Young,6,48503
+48,Texas,TX,505,Zapata,6,48505
+48,Texas,TX,507,Zavala,6,48507
+49,Utah,UT,1,Beaver,8,49001
+49,Utah,UT,3,Box Elder,8,49003
+49,Utah,UT,5,Cache,8,49005
+49,Utah,UT,7,Carbon,8,49007
+49,Utah,UT,9,Daggett,8,49009
+49,Utah,UT,11,Davis,8,49011
+49,Utah,UT,13,Duchesne,8,49013
+49,Utah,UT,15,Emery,8,49015
+49,Utah,UT,17,Garfield,8,49017
+49,Utah,UT,19,Grand,8,49019
+49,Utah,UT,21,Iron,8,49021
+49,Utah,UT,23,Juab,8,49023
+49,Utah,UT,25,Kane,8,49025
+49,Utah,UT,27,Millard,8,49027
+49,Utah,UT,29,Morgan,8,49029
+49,Utah,UT,31,Piute,8,49031
+49,Utah,UT,33,Rich,8,49033
+49,Utah,UT,35,Salt Lake,8,49035
+49,Utah,UT,37,San Juan,8,49037
+49,Utah,UT,39,Sanpete,8,49039
+49,Utah,UT,41,Sevier,8,49041
+49,Utah,UT,43,Summit,8,49043
+49,Utah,UT,45,Tooele,8,49045
+49,Utah,UT,47,Uintah,8,49047
+49,Utah,UT,49,Utah,8,49049
+49,Utah,UT,51,Wasatch,8,49051
+49,Utah,UT,53,Washington,8,49053
+49,Utah,UT,55,Wayne,8,49055
+49,Utah,UT,57,Weber,8,49057
+50,Vermont,VT,1,Addison,1,50001
+50,Vermont,VT,3,Bennington,1,50003
+50,Vermont,VT,5,Caledonia,1,50005
+50,Vermont,VT,7,Chittenden,1,50007
+50,Vermont,VT,9,Essex,1,50009
+50,Vermont,VT,11,Franklin,1,50011
+50,Vermont,VT,13,Grand Isle,1,50013
+50,Vermont,VT,15,Lamoille,1,50015
+50,Vermont,VT,17,Orange,1,50017
+50,Vermont,VT,19,Orleans,1,50019
+50,Vermont,VT,21,Rutland,1,50021
+50,Vermont,VT,23,Washington,1,50023
+50,Vermont,VT,25,Windham,1,50025
+50,Vermont,VT,27,Windsor,1,50027
+51,Virginia,VA,1,Accomack,3,51001
+51,Virginia,VA,3,Albemarle,3,51003
+51,Virginia,VA,5,Alleghany,3,51005
+51,Virginia,VA,7,Amelia,3,51007
+51,Virginia,VA,9,Amherst,3,51009
+51,Virginia,VA,11,Appomattox,3,51011
+51,Virginia,VA,13,Arlington,3,51013
+51,Virginia,VA,15,Augusta,3,51015
+51,Virginia,VA,17,Bath,3,51017
+51,Virginia,VA,19,Bedford,3,51019
+51,Virginia,VA,21,Bland,3,51021
+51,Virginia,VA,23,Botetourt,3,51023
+51,Virginia,VA,25,Brunswick,3,51025
+51,Virginia,VA,27,Buchanan,3,51027
+51,Virginia,VA,29,Buckingham,3,51029
+51,Virginia,VA,31,Campbell,3,51031
+51,Virginia,VA,33,Caroline,3,51033
+51,Virginia,VA,35,Carroll,3,51035
+51,Virginia,VA,36,Charles,3,51036
+51,Virginia,VA,37,Charlotte,3,51037
+51,Virginia,VA,41,Chesterfield,3,51041
+51,Virginia,VA,43,Clarke,3,51043
+51,Virginia,VA,45,Craig,3,51045
+51,Virginia,VA,47,Culpeper,3,51047
+51,Virginia,VA,49,Cumberland,3,51049
+51,Virginia,VA,51,Dickenson,3,51051
+51,Virginia,VA,53,Dinwiddie,3,51053
+51,Virginia,VA,57,Essex,3,51057
+51,Virginia,VA,59,Fairfax,3,51059
+51,Virginia,VA,61,Fauquier,3,51061
+51,Virginia,VA,63,Floyd,3,51063
+51,Virginia,VA,65,Fluvanna,3,51065
+51,Virginia,VA,67,Franklin,3,51067
+51,Virginia,VA,69,Frederick,3,51069
+51,Virginia,VA,71,Giles,3,51071
+51,Virginia,VA,73,Gloucester,3,51073
+51,Virginia,VA,75,Goochland,3,51075
+51,Virginia,VA,77,Grayson,3,51077
+51,Virginia,VA,79,Greene,3,51079
+51,Virginia,VA,81,Greensville,3,51081
+51,Virginia,VA,83,Halifax,3,51083
+51,Virginia,VA,85,Hanover,3,51085
+51,Virginia,VA,87,Henrico,3,51087
+51,Virginia,VA,89,Henry,3,51089
+51,Virginia,VA,91,Highland,3,51091
+51,Virginia,VA,93,Isle of Wight,3,51093
+51,Virginia,VA,95,James ,3,51095
+51,Virginia,VA,97,King and Queen,3,51097
+51,Virginia,VA,99,King George,3,51099
+51,Virginia,VA,101,King William,3,51101
+51,Virginia,VA,103,Lancaster,3,51103
+51,Virginia,VA,105,Lee,3,51105
+51,Virginia,VA,107,Loudoun,3,51107
+51,Virginia,VA,109,Louisa,3,51109
+51,Virginia,VA,111,Lunenburg,3,51111
+51,Virginia,VA,113,Madison,3,51113
+51,Virginia,VA,115,Mathews,3,51115
+51,Virginia,VA,117,Mecklenburg,3,51117
+51,Virginia,VA,119,Middlesex,3,51119
+51,Virginia,VA,121,Montgomery,3,51121
+51,Virginia,VA,125,Nelson,3,51125
+51,Virginia,VA,127,New Kent,3,51127
+51,Virginia,VA,131,Northampton,3,51131
+51,Virginia,VA,133,Northumberland,3,51133
+51,Virginia,VA,135,Nottoway,3,51135
+51,Virginia,VA,137,Orange,3,51137
+51,Virginia,VA,139,Page,3,51139
+51,Virginia,VA,141,Patrick,3,51141
+51,Virginia,VA,143,Pittsylvania,3,51143
+51,Virginia,VA,145,Powhatan,3,51145
+51,Virginia,VA,147,Prince Edward,3,51147
+51,Virginia,VA,149,Prince George,3,51149
+51,Virginia,VA,153,Prince William,3,51153
+51,Virginia,VA,155,Pulaski,3,51155
+51,Virginia,VA,157,Rappahannock,3,51157
+51,Virginia,VA,159,Richmond,3,51159
+51,Virginia,VA,161,Roanoke,3,51161
+51,Virginia,VA,163,Rockbridge,3,51163
+51,Virginia,VA,165,Rockingham,3,51165
+51,Virginia,VA,167,Russell,3,51167
+51,Virginia,VA,169,Scott,3,51169
+51,Virginia,VA,171,Shenandoah,3,51171
+51,Virginia,VA,173,Smyth,3,51173
+51,Virginia,VA,175,Southampton,3,51175
+51,Virginia,VA,177,Spotsylvania,3,51177
+51,Virginia,VA,179,Stafford,3,51179
+51,Virginia,VA,181,Surry,3,51181
+51,Virginia,VA,183,Sussex,3,51183
+51,Virginia,VA,185,Tazewell,3,51185
+51,Virginia,VA,187,Warren,3,51187
+51,Virginia,VA,191,Washington,3,51191
+51,Virginia,VA,193,Westmoreland,3,51193
+51,Virginia,VA,195,Wise,3,51195
+51,Virginia,VA,197,Wythe,3,51197
+51,Virginia,VA,199,York,3,51199
+51,Virginia,VA,510,Alexandria City,3,51510
+51,Virginia,VA,515,Bedford City,3,51515
+51,Virginia,VA,520,Bristol City,3,51520
+51,Virginia,VA,530,Buena Vista City,3,51530
+51,Virginia,VA,540,Charlottesville City,3,51540
+51,Virginia,VA,550,Chesapeake City,3,51550
+51,Virginia,VA,570,Colonial Heights City,3,51570
+51,Virginia,VA,580,Covington City,3,51580
+51,Virginia,VA,590,Danville City,3,51590
+51,Virginia,VA,595,Emporia City,3,51595
+51,Virginia,VA,600,Fairfax City,3,51600
+51,Virginia,VA,610,Falls Church City,3,51610
+51,Virginia,VA,620,Franklin City,3,51620
+51,Virginia,VA,630,Fredericksburg City,3,51630
+51,Virginia,VA,640,Galax City,3,51640
+51,Virginia,VA,650,Hampton City,3,51650
+51,Virginia,VA,660,Harrisonburg City,3,51660
+51,Virginia,VA,670,Hopewell City,3,51670
+51,Virginia,VA,678,Lexington City,3,51678
+51,Virginia,VA,680,Lynchburg City,3,51680
+51,Virginia,VA,683,Manassas City,3,51683
+51,Virginia,VA,685,Manassas Park City,3,51685
+51,Virginia,VA,690,Martinsville City,3,51690
+51,Virginia,VA,700,Newport News City,3,51700
+51,Virginia,VA,710,Norfolk City,3,51710
+51,Virginia,VA,720,Norton City,3,51720
+51,Virginia,VA,730,Petersburg City,3,51730
+51,Virginia,VA,735,Poquoson City,3,51735
+51,Virginia,VA,740,Portsmouth City,3,51740
+51,Virginia,VA,750,Radford City,3,51750
+51,Virginia,VA,760,Richmond City,3,51760
+51,Virginia,VA,770,Roanoke City,3,51770
+51,Virginia,VA,775,Salem City,3,51775
+51,Virginia,VA,790,Staunton City,3,51790
+51,Virginia,VA,800,Suffolk City,3,51800
+51,Virginia,VA,810,Virginia Beach City,3,51810
+51,Virginia,VA,820,Waynesboro City,3,51820
+51,Virginia,VA,830,Williamsburg City,3,51830
+51,Virginia,VA,840,Winchester City,3,51840
+53,Washington,WA,1,Adams,10,53001
+53,Washington,WA,3,Asotin,10,53003
+53,Washington,WA,5,Benton,10,53005
+53,Washington,WA,7,Chelan,10,53007
+53,Washington,WA,9,Clallam,10,53009
+53,Washington,WA,11,Clark,10,53011
+53,Washington,WA,13,Columbia,10,53013
+53,Washington,WA,15,Cowlitz,10,53015
+53,Washington,WA,17,Douglas,10,53017
+53,Washington,WA,19,Ferry,10,53019
+53,Washington,WA,21,Franklin,10,53021
+53,Washington,WA,23,Garfield,10,53023
+53,Washington,WA,25,Grant,10,53025
+53,Washington,WA,27,Grays Harbor,10,53027
+53,Washington,WA,29,Island,10,53029
+53,Washington,WA,31,Jefferson,10,53031
+53,Washington,WA,33,King,10,53033
+53,Washington,WA,35,Kitsap,10,53035
+53,Washington,WA,37,Kittitas,10,53037
+53,Washington,WA,39,Klickitat,10,53039
+53,Washington,WA,41,Lewis,10,53041
+53,Washington,WA,43,Lincoln,10,53043
+53,Washington,WA,45,Mason,10,53045
+53,Washington,WA,47,Okanogan,10,53047
+53,Washington,WA,49,Pacific,10,53049
+53,Washington,WA,51,Pend Oreille,10,53051
+53,Washington,WA,53,Pierce,10,53053
+53,Washington,WA,55,San Juan,10,53055
+53,Washington,WA,57,Skagit,10,53057
+53,Washington,WA,59,Skamania,10,53059
+53,Washington,WA,61,Snohomish,10,53061
+53,Washington,WA,63,Spokane,10,53063
+53,Washington,WA,65,Stevens,10,53065
+53,Washington,WA,67,Thurston,10,53067
+53,Washington,WA,69,Wahkiakum,10,53069
+53,Washington,WA,71,Walla Walla,10,53071
+53,Washington,WA,73,Whatcom,10,53073
+53,Washington,WA,75,Whitman,10,53075
+53,Washington,WA,77,Yakima,10,53077
+54,West Virginia,WV,1,Barbour,3,54001
+54,West Virginia,WV,3,Berkeley,3,54003
+54,West Virginia,WV,5,Boone,3,54005
+54,West Virginia,WV,7,Braxton,3,54007
+54,West Virginia,WV,9,Brooke,3,54009
+54,West Virginia,WV,11,Cabell,3,54011
+54,West Virginia,WV,13,Calhoun,3,54013
+54,West Virginia,WV,15,Clay,3,54015
+54,West Virginia,WV,17,Doddridge,3,54017
+54,West Virginia,WV,19,Fayette,3,54019
+54,West Virginia,WV,21,Gilmer,3,54021
+54,West Virginia,WV,23,Grant,3,54023
+54,West Virginia,WV,25,Greenbrier,3,54025
+54,West Virginia,WV,27,Hampshire,3,54027
+54,West Virginia,WV,29,Hancock,3,54029
+54,West Virginia,WV,31,Hardy,3,54031
+54,West Virginia,WV,33,Harrison,3,54033
+54,West Virginia,WV,35,Jackson,3,54035
+54,West Virginia,WV,37,Jefferson,3,54037
+54,West Virginia,WV,39,Kanawha,3,54039
+54,West Virginia,WV,41,Lewis,3,54041
+54,West Virginia,WV,43,Lincoln,3,54043
+54,West Virginia,WV,45,Logan,3,54045
+54,West Virginia,WV,47,McDowell,3,54047
+54,West Virginia,WV,49,Marion,3,54049
+54,West Virginia,WV,51,Marshall,3,54051
+54,West Virginia,WV,53,Mason,3,54053
+54,West Virginia,WV,55,Mercer,3,54055
+54,West Virginia,WV,57,Mineral,3,54057
+54,West Virginia,WV,59,Mingo,3,54059
+54,West Virginia,WV,61,Monongalia,3,54061
+54,West Virginia,WV,63,Monroe,3,54063
+54,West Virginia,WV,65,Morgan,3,54065
+54,West Virginia,WV,67,Nicholas,3,54067
+54,West Virginia,WV,69,Ohio,3,54069
+54,West Virginia,WV,71,Pendleton,3,54071
+54,West Virginia,WV,73,Pleasants,3,54073
+54,West Virginia,WV,75,Pocahontas,3,54075
+54,West Virginia,WV,77,Preston,3,54077
+54,West Virginia,WV,79,Putnam,3,54079
+54,West Virginia,WV,81,Raleigh,3,54081
+54,West Virginia,WV,83,Randolph,3,54083
+54,West Virginia,WV,85,Ritchie,3,54085
+54,West Virginia,WV,87,Roane,3,54087
+54,West Virginia,WV,89,Summers,3,54089
+54,West Virginia,WV,91,Taylor,3,54091
+54,West Virginia,WV,93,Tucker,3,54093
+54,West Virginia,WV,95,Tyler,3,54095
+54,West Virginia,WV,97,Upshur,3,54097
+54,West Virginia,WV,99,Wayne,3,54099
+54,West Virginia,WV,101,Webster,3,54101
+54,West Virginia,WV,103,Wetzel,3,54103
+54,West Virginia,WV,105,Wirt,3,54105
+54,West Virginia,WV,107,Wood,3,54107
+54,West Virginia,WV,109,Wyoming,3,54109
+55,Wisconsin,WI,1,Adams,5,55001
+55,Wisconsin,WI,3,Ashland,5,55003
+55,Wisconsin,WI,5,Barron,5,55005
+55,Wisconsin,WI,7,Bayfield,5,55007
+55,Wisconsin,WI,9,Brown,5,55009
+55,Wisconsin,WI,11,Buffalo,5,55011
+55,Wisconsin,WI,13,Burnett,5,55013
+55,Wisconsin,WI,15,Calumet,5,55015
+55,Wisconsin,WI,17,Chippewa,5,55017
+55,Wisconsin,WI,19,Clark,5,55019
+55,Wisconsin,WI,21,Columbia,5,55021
+55,Wisconsin,WI,23,Crawford,5,55023
+55,Wisconsin,WI,25,Dane,5,55025
+55,Wisconsin,WI,27,Dodge,5,55027
+55,Wisconsin,WI,29,Door,5,55029
+55,Wisconsin,WI,31,Douglas,5,55031
+55,Wisconsin,WI,33,Dunn,5,55033
+55,Wisconsin,WI,35,Eau Claire,5,55035
+55,Wisconsin,WI,37,Florence,5,55037
+55,Wisconsin,WI,39,Fond du Lac,5,55039
+55,Wisconsin,WI,41,Forest,5,55041
+55,Wisconsin,WI,43,Grant,5,55043
+55,Wisconsin,WI,45,Green,5,55045
+55,Wisconsin,WI,47,Green Lake,5,55047
+55,Wisconsin,WI,49,Iowa,5,55049
+55,Wisconsin,WI,51,Iron,5,55051
+55,Wisconsin,WI,53,Jackson,5,55053
+55,Wisconsin,WI,55,Jefferson,5,55055
+55,Wisconsin,WI,57,Juneau,5,55057
+55,Wisconsin,WI,59,Kenosha,5,55059
+55,Wisconsin,WI,61,Kewaunee,5,55061
+55,Wisconsin,WI,63,La Crosse,5,55063
+55,Wisconsin,WI,65,Lafayette,5,55065
+55,Wisconsin,WI,67,Langlade,5,55067
+55,Wisconsin,WI,69,Lincoln,5,55069
+55,Wisconsin,WI,71,Manitowoc,5,55071
+55,Wisconsin,WI,73,Marathon,5,55073
+55,Wisconsin,WI,75,Marinette,5,55075
+55,Wisconsin,WI,77,Marquette,5,55077
+55,Wisconsin,WI,78,Menominee,5,55078
+55,Wisconsin,WI,79,Milwaukee,5,55079
+55,Wisconsin,WI,81,Monroe,5,55081
+55,Wisconsin,WI,83,Oconto,5,55083
+55,Wisconsin,WI,85,Oneida,5,55085
+55,Wisconsin,WI,87,Outagamie,5,55087
+55,Wisconsin,WI,89,Ozaukee,5,55089
+55,Wisconsin,WI,91,Pepin,5,55091
+55,Wisconsin,WI,93,Pierce,5,55093
+55,Wisconsin,WI,95,Polk,5,55095
+55,Wisconsin,WI,97,Portage,5,55097
+55,Wisconsin,WI,99,Price,5,55099
+55,Wisconsin,WI,101,Racine,5,55101
+55,Wisconsin,WI,103,Richland,5,55103
+55,Wisconsin,WI,105,Rock,5,55105
+55,Wisconsin,WI,107,Rusk,5,55107
+55,Wisconsin,WI,109,St. Croix,5,55109
+55,Wisconsin,WI,111,Sauk,5,55111
+55,Wisconsin,WI,113,Sawyer,5,55113
+55,Wisconsin,WI,115,Shawano,5,55115
+55,Wisconsin,WI,117,Sheboygan,5,55117
+55,Wisconsin,WI,119,Taylor,5,55119
+55,Wisconsin,WI,121,Trempealeau,5,55121
+55,Wisconsin,WI,123,Vernon,5,55123
+55,Wisconsin,WI,125,Vilas,5,55125
+55,Wisconsin,WI,127,Walworth,5,55127
+55,Wisconsin,WI,129,Washburn,5,55129
+55,Wisconsin,WI,131,Washington,5,55131
+55,Wisconsin,WI,133,Waukesha,5,55133
+55,Wisconsin,WI,135,Waupaca,5,55135
+55,Wisconsin,WI,137,Waushara,5,55137
+55,Wisconsin,WI,139,Winnebago,5,55139
+55,Wisconsin,WI,141,Wood,5,55141
+56,Wyoming,WY,1,Albany,8,56001
+56,Wyoming,WY,3,Big Horn,8,56003
+56,Wyoming,WY,5,Campbell,8,56005
+56,Wyoming,WY,7,Carbon,8,56007
+56,Wyoming,WY,9,Converse,8,56009
+56,Wyoming,WY,11,Crook,8,56011
+56,Wyoming,WY,13,Fremont,8,56013
+56,Wyoming,WY,15,Goshen,8,56015
+56,Wyoming,WY,17,Hot Springs,8,56017
+56,Wyoming,WY,19,Johnson,8,56019
+56,Wyoming,WY,21,Laramie,8,56021
+56,Wyoming,WY,23,Lincoln,8,56023
+56,Wyoming,WY,25,Natrona,8,56025
+56,Wyoming,WY,27,Niobrara,8,56027
+56,Wyoming,WY,29,Park,8,56029
+56,Wyoming,WY,31,Platte,8,56031
+56,Wyoming,WY,33,Sheridan,8,56033
+56,Wyoming,WY,35,Sublette,8,56035
+56,Wyoming,WY,37,Sweetwater,8,56037
+56,Wyoming,WY,39,Teton,8,56039
+56,Wyoming,WY,41,Uinta,8,56041
+56,Wyoming,WY,43,Washakie,8,56043
+56,Wyoming,WY,45,Weston,8,56045

@@ -1,0 +1,37 @@
+demographics data
+https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/asrh/
+	including age distribution, population, and race
+	CC-EST2020-ALLDATA.csv
+	explaining the variables
+	https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2010-2020/cc-est2020-alldata.pdf
+
+poverty
+https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
+	number of people in poverty by age group
+
+weather
+https://www.worldweatheronline.com/developer
+	explaining variables (details about units)
+	https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.aspx#astro
+
+covid
+https://www.nature.com/articles/s41467-020-20568-4
+	about 5% of people are still contageous after 2 weeks
+
+vaccine
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+	explaining the variables
+
+voting
+http://simp.ly/p/NTfgyx
+	explaining the variables
+
+social vulnerability index
+https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html
+one dimension of vulnerability to multiple stressors and shocks, including abuse, social exclusion and natural hazards. Social vulnerability refers to the inability of people, organizations, and societies to withstand adverse impacts from multiple stressors to which they are exposed
+	https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2018.html
+	explaining the variables
+
+county adjacency
+https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/county-adjacency-record-layout.html
+GEOID is fips
